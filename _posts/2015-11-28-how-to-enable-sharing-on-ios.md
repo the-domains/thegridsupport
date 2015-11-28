@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - duration
   - enable
@@ -16,8 +16,8 @@ keywords:
   - usb
   - hotspot
 description: ''
-datePublished: '2015-11-28T22:43:27.262Z'
-dateModified: '2015-11-28T22:43:24.669Z'
+datePublished: '2015-11-28T22:43:31.531Z'
+dateModified: '2015-11-28T22:43:28.589Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
