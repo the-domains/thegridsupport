@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 06:56:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2015 06:56:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Create a Navigation Link]]></title>
+            <description><![CDATA[<article><h1>How to Create a Navigation Link</h1><p>How to create a navigation link</p><img src="https://i.ytimg.com/vi/q2XRBfSB_Bo/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=q2XRBfSB_Bo</link>
+            <guid isPermaLink="false">67403302-dbd3-448a-b4cf-25b19beac582</guid>
+            <pubDate>Sat, 28 Nov 2015 06:55:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Move Up Move Down]]></title>
             <description><![CDATA[<article><h1>Move Up Move Down</h1><p>How to move an image up or down in a post</p><img src="https://i.ytimg.com/vi/Ow7dRdzWeNI/hqdefault.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://www.youtube.com/watch?v=JwaOYl7d2qs</link>
             <guid isPermaLink="false">3ef3fd6b-af1a-48cf-955b-d5ae39247270</guid>
             <pubDate>Sat, 28 Nov 2015 06:49:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Create a Navigation Link]]></title>
-            <description><![CDATA[<article><h1>How to Create a Navigation Link</h1><p>How to create a navigation link</p><img src="https://i.ytimg.com/vi/q2XRBfSB_Bo/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=q2XRBfSB_Bo</link>
-            <guid isPermaLink="false">67403302-dbd3-448a-b4cf-25b19beac582</guid>
-            <pubDate>Sat, 28 Nov 2015 06:33:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Create Site]]></title>
