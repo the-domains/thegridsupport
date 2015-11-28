@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=EvjzWWWXryI'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - overlay
   - duration
@@ -17,8 +17,8 @@ keywords:
   - straighten
   - adobe
 description: Uploaded by Jordy Webb on 2015-11-26.
-datePublished: '2015-11-28T07:15:22.684Z'
-dateModified: '2015-11-28T07:15:17.472Z'
+datePublished: '2015-11-28T07:19:20.649Z'
+dateModified: '2015-11-28T07:19:16.697Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
