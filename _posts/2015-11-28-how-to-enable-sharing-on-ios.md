@@ -17,8 +17,8 @@ keywords:
   - usb
   - hotspot
 description: ''
-datePublished: '2015-11-28T07:28:35.353Z'
-dateModified: '2015-11-28T07:28:33.061Z'
+datePublished: '2015-11-28T07:49:20.102Z'
+dateModified: '2015-11-28T07:49:13.287Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=549V_OvFzxQ&feature=applinks'
     type: web
 title: How to Enable Sharing on iOS
+sourcePath: _posts/2015-11-28-how-to-enable-sharing-on-ios.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-11-28-how-to-enable-sharing-on-ios.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
