@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=VoiM2OLLx8E'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - domain
   - duration
@@ -17,8 +17,8 @@ keywords:
   - github
   - name
 description: ''
-datePublished: '2015-11-28T08:33:53.208Z'
-dateModified: '2015-11-28T08:33:48.404Z'
+datePublished: '2015-11-28T08:36:27.656Z'
+dateModified: '2015-11-28T08:36:24.392Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=VoiM2OLLx8E&feature=applinks'
     type: web
 title: How to Add a Custom Domain
+sourcePath: _posts/2015-11-28-how-to-add-a-custom-domain.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-11-28-how-to-add-a-custom-domain.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
