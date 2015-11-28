@@ -16,9 +16,9 @@ keywords:
   - sharepoint
   - '2015'
   - tyler
-description: Uploaded by Jordy Webb on 2015-11-28.
-datePublished: '2015-11-28T06:27:09.156Z'
-dateModified: '2015-11-28T06:27:04.193Z'
+description: ''
+datePublished: '2015-11-28T08:34:50.947Z'
+dateModified: '2015-11-28T08:34:48.575Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -35,7 +35,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=KMm_b6vMG58&feature=applinks'
     type: web
-title: Create Site
+title: Create a New Site
 sourcePath: _posts/2015-11-28-create-site.md
 published: true
 authors: []
