@@ -1,0 +1,28 @@
+name: TheGridSupport
+favicon: null
+layout_spectrum: 0.6251246512401849
+typography_spectrum: 0.5349565679207444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.40214198478497565
+  lightness: 0.047098432667553425
+  saturation: 0.28370958124287426
+  rhythmicContrast: 0.7259041036013514
+purpose: []
