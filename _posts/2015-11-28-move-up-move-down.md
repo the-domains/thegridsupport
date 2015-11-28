@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Ow7dRdzWeNI'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - duration
   - views
@@ -17,8 +17,8 @@ keywords:
   - veronique
   - jafo
 description: How to move images in a blog post
-datePublished: '2015-11-28T06:55:32.439Z'
-dateModified: '2015-11-28T06:55:20.014Z'
+datePublished: '2015-11-28T06:58:24.709Z'
+dateModified: '2015-11-28T06:58:22.479Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
