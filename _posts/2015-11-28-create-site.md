@@ -16,8 +16,8 @@ keywords:
   - '2015'
   - tyler
 description: ''
-datePublished: '2015-11-28T23:24:32.997Z'
-dateModified: '2015-11-28T23:24:30.509Z'
+datePublished: '2015-11-28T23:30:05.686Z'
+dateModified: '2015-11-28T23:30:02.275Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -52,8 +52,8 @@ _context: 'http://schema.org'
 
 Let's get started, shall we? 
 
+<iframe src="https://cdn.embedly.com/widgets/media.html?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKMm_b6vMG58%26feature%3Dyoutu.be&amp;src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FKMm_b6vMG58%3Ffeature%3Doembed&amp;type=text%2Fhtml&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
 * Click "Add New Site" from your drafts dashboard
 * Enter your site name
 * Confirm and pat yourself on the back
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKMm_b6vMG58%26feature%3Dyoutu.be&amp;src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FKMm_b6vMG58%3Ffeature%3Doembed&amp;type=text%2Fhtml&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
