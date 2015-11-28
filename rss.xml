@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[TheGridSupport]]></title>
         <description><![CDATA[TheGridSupport]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 05:39:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 Nov 2015 05:44:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid Knowledge Base]]></title>
+            <description><![CDATA[<article><h1>The Grid Knowledge Base</h1><p>We're here to help.</p><img src="http://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5586971de4b01a224b42d302/192.png"></article>]]></description>
+            <link>http://help.thegrid.io/</link>
+            <guid isPermaLink="false">87617771-8488-47cc-86a2-8cae70c13b4f</guid>
+            <pubDate>Sat, 28 Nov 2015 05:44:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Create Site]]></title>
             <description><![CDATA[<article><h1>Create Site</h1><p>Uploaded by Jordy Webb on 2015-11-28.</p><img src="http://img.youtube.com/vi/KMm_b6vMG58/hqdefault.jpg"></article>]]></description>
