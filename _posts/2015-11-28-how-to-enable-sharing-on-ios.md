@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=549V_OvFzxQ'
 inLanguage: en
 starred: true
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - usb
   - hotspot
 description: ''
-datePublished: '2015-11-28T22:39:52.208Z'
-dateModified: '2015-11-28T22:39:49.234Z'
+datePublished: '2015-11-28T22:40:06.875Z'
+dateModified: '2015-11-28T22:40:04.353Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -44,6 +43,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: how-to-enable-sharing-on-ios/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
