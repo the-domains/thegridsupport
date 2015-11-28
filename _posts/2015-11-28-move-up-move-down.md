@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Ow7dRdzWeNI'
 inLanguage: en
 starred: true
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - veronique
   - jafo
 description: How to move images in a blog post
-datePublished: '2015-11-28T21:28:04.365Z'
-dateModified: '2015-11-28T21:27:58.718Z'
+datePublished: '2015-11-28T21:45:24.012Z'
+dateModified: '2015-11-28T21:45:20.389Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -36,14 +35,15 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=Ow7dRdzWeNI&feature=applinks'
     type: web
 title: Move Up Move Down
+sourcePath: _posts/2015-11-28-move-up-move-down.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-11-28-move-up-move-down.md
-published: true
+url: move-up-move-down/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
