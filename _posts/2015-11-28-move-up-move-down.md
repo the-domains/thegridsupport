@@ -16,8 +16,8 @@ keywords:
   - veronique
   - jafo
 description: How to move images in a blog post
-datePublished: '2015-11-28T22:20:38.691Z'
-dateModified: '2015-11-28T22:20:36.455Z'
+datePublished: '2015-11-28T22:23:16.511Z'
+dateModified: '2015-11-28T22:23:14.082Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -52,7 +52,7 @@ _context: 'http://schema.org'
 
 The Move Up and Move Down buttons allow you to place the image above or below text within your blog post. 
 
-* First, click on your image
-* Then, simply click either button to move the image to where you would like it placed. 
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FOw7dRdzWeNI%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOw7dRdzWeNI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FOw7dRdzWeNI%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+* First, click on your image
+* Then, simply click either button to move the image to where you would like it placed.
