@@ -1,7 +1,7 @@
 name: TheGridSupport
 favicon: null
-layout_spectrum: 0.6251246512401849
-typography_spectrum: 0.5349565679207444
+layout_spectrum: 0
+typography_spectrum: 0.24756
 cta:
   domain: null
   bucket: null
