@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 23:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2015 23:21:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to Delete a Site:]]></title>
@@ -56,11 +56,11 @@
             <pubDate>Sat, 28 Nov 2015 22:40:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Create a New Site]]></title>
-            <description><![CDATA[<article><h1>Create a New Site</h1><p>How to create a new site on The Grid</p><img src="http://img.youtube.com/vi/KMm_b6vMG58/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=KMm_b6vMG58&amp;feature=youtu.be</link>
+            <title><![CDATA[How to create a new site on The Grid]]></title>
+            <description><![CDATA[<article><h1>How to create a new site on The Grid</h1><p>Let's get started, shall we? </p><img src="http://img.youtube.com/vi/KMm_b6vMG58/hqdefault.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thegridsupport/how-to-create-a-new-site-on-the-grid/index.html</link>
             <guid isPermaLink="false">885abb19-e2ad-4e87-9267-aa2f222b45be</guid>
-            <pubDate>Sat, 28 Nov 2015 21:54:24 GMT</pubDate>
+            <pubDate>Sat, 28 Nov 2015 23:20:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
