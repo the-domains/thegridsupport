@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Jordy Webb
-    url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=JwaOYl7d2qs'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - delete
@@ -21,7 +17,13 @@ keywords:
   - website
   - cpanel
 description: Uploaded by Jordy Webb on 2015-11-28.
-inLanguage: en
+datePublished: '2015-11-28T06:01:40.542Z'
+dateModified: '2015-11-28T06:01:36.181Z'
+author:
+  - name: Jordy Webb
+    url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=JwaOYl7d2qs&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=JwaOYl7d2qs&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=JwaOYl7d2qs'
 title: Delete Site
-datePublished: '2015-11-28T05:45:48.711Z'
-dateModified: '2015-11-28T05:45:06.349Z'
 sourcePath: _posts/2015-11-28-delete-site.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
