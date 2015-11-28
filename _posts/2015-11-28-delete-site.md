@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=JwaOYl7d2qs'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - duration
   - delete
@@ -17,8 +17,8 @@ keywords:
   - website
   - cpanel
 description: Uploaded by Jordy Webb on 2015-11-28.
-datePublished: '2015-11-28T06:49:50.614Z'
-dateModified: '2015-11-28T06:49:44.056Z'
+datePublished: '2015-11-28T22:45:40.912Z'
+dateModified: '2015-11-28T22:45:38.273Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -35,7 +35,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=JwaOYl7d2qs&feature=applinks'
     type: web
-title: How to Delete a Site
+title: 'How to Delete a Site:'
 sourcePath: _posts/2015-11-28-delete-site.md
 published: true
 authors: []
@@ -48,4 +48,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+# How to Delete a Site:
+
+Don't like your site? That's ok, just can it! The good news is that you can have 7 sites active with your Founding Membership, so don't get too hasty. However, if you really want to delete one, here's how you do it.
+
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FJwaOYl7d2qs%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJwaOYl7d2qs&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FJwaOYl7d2qs%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
