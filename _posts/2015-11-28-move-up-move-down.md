@@ -17,8 +17,8 @@ keywords:
   - veronique
   - jafo
 description: How to move images in a blog post
-datePublished: '2015-11-28T22:34:47.820Z'
-dateModified: '2015-11-28T22:34:44.713Z'
+datePublished: '2015-11-28T22:37:10.095Z'
+dateModified: '2015-11-28T22:37:07.176Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
