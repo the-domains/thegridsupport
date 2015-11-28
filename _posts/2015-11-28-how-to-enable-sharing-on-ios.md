@@ -17,8 +17,8 @@ keywords:
   - usb
   - hotspot
 description: ''
-datePublished: '2015-11-28T07:49:20.102Z'
-dateModified: '2015-11-28T07:49:13.287Z'
+datePublished: '2015-11-28T22:39:52.208Z'
+dateModified: '2015-11-28T22:39:49.234Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -35,7 +35,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=549V_OvFzxQ&feature=applinks'
     type: web
-title: How to Enable Sharing on iOS
+title: How to enable sharing on iOS
 sourcePath: _posts/2015-11-28-how-to-enable-sharing-on-ios.md
 published: true
 authors: []
@@ -48,6 +48,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-How to enable sharing on iOS
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F549V_OvFzxQ%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D549V_OvFzxQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F549V_OvFzxQ%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+# How to enable sharing on iOS
+
+The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid.
