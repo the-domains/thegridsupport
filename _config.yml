@@ -1,7 +1,7 @@
 name: TheGridSupport
 favicon: null
-layout_spectrum: 0.7405
-typography_spectrum: 0.49091
+layout_spectrum: 0.5055
+typography_spectrum: 0.74957
 title: The Grid Support Blog
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#b99d45'
     - '#6f5f2b'
     - '#faf9fb'
-  brandStrength: 0.75
+  brandStrength: 0.5
   lightness: 0.25
-  saturation: 0.5625
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
