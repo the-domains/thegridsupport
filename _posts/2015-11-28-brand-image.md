@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=e3aB2Ju0scY'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - duration
   - brand
@@ -17,8 +17,8 @@ keywords:
   - summer
   - stefan
 description: How to add a Brand Image and Change Color Settings
-datePublished: '2015-11-28T23:43:12.415Z'
-dateModified: '2015-11-28T23:43:09.676Z'
+datePublished: '2015-11-29T00:25:46.355Z'
+dateModified: '2015-11-29T00:25:42.791Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
