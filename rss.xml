@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 01:46:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Nov 2015 01:47:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Create a Navigation Link]]></title>
+            <description><![CDATA[<article><h1>How to Create a Navigation Link</h1><p>How to create a navigation link</p><img src="https://i.ytimg.com/vi/q2XRBfSB_Bo/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=q2XRBfSB_Bo</link>
+            <guid isPermaLink="false">67403302-dbd3-448a-b4cf-25b19beac582</guid>
+            <pubDate>Sun, 29 Nov 2015 01:46:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brand Image ]]></title>
             <description><![CDATA[<article><h1>Brand Image </h1><p>You can define the spectrum of colors used on your site by adding a Brand Image. The colors from the image you upload, will be extracted and applied in the design of your site. You can then use the slider to select how "branded" you want your site to look.</p><img src="https://i.ytimg.com/vi/e3aB2Ju0scY/hqdefault.jpg"></article>]]></description>
@@ -54,13 +61,6 @@
             <link>https://www.youtube.com/watch?v=JwaOYl7d2qs</link>
             <guid isPermaLink="false">3ef3fd6b-af1a-48cf-955b-d5ae39247270</guid>
             <pubDate>Sun, 29 Nov 2015 01:16:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Create a Navigation Link]]></title>
-            <description><![CDATA[<article><h1>How to Create a Navigation Link</h1><p>How to create a navigation link</p><img src="https://i.ytimg.com/vi/q2XRBfSB_Bo/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=q2XRBfSB_Bo</link>
-            <guid isPermaLink="false">67403302-dbd3-448a-b4cf-25b19beac582</guid>
-            <pubDate>Sat, 28 Nov 2015 22:40:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
