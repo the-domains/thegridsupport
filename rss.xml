@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 01:59:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Nov 2015 02:01:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to enable sharing on iOS]]></title>
+            <description><![CDATA[<article><h1>How to enable sharing on iOS</h1><p>The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid. After you enable sharing, you can also share content from your browser.</p><img src="https://i.ytimg.com/vi/549V_OvFzxQ/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=549V_OvFzxQ</link>
+            <guid isPermaLink="false">8ece897e-758a-4ec6-a49a-fff0c92e7ef8</guid>
+            <pubDate>Sun, 29 Nov 2015 01:59:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to create a new site on The Grid]]></title>
             <description><![CDATA[<article><h1>How to create a new site on The Grid</h1><p>Let's get started, shall we? </p><img src="http://img.youtube.com/vi/KMm_b6vMG58/hqdefault.jpg"></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://www.youtube.com/watch?v=e3aB2Ju0scY</link>
             <guid isPermaLink="false">63a02f0e-7611-4b57-b2d3-1316475f5414</guid>
             <pubDate>Sun, 29 Nov 2015 01:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to enable sharing on iOS]]></title>
-            <description><![CDATA[<article><h1>How to enable sharing on iOS</h1><p>The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid.</p><img src="https://i.ytimg.com/vi/549V_OvFzxQ/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=549V_OvFzxQ</link>
-            <guid isPermaLink="false">8ece897e-758a-4ec6-a49a-fff0c92e7ef8</guid>
-            <pubDate>Sun, 29 Nov 2015 01:58:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Disable Crop and Filter]]></title>
