@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=VoiM2OLLx8E'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - domain
   - duration
@@ -17,8 +17,8 @@ keywords:
   - github
   - name
 description: ''
-datePublished: '2015-11-29T00:42:06.794Z'
-dateModified: '2015-11-29T00:42:03.304Z'
+datePublished: '2015-11-29T00:43:22.022Z'
+dateModified: '2015-11-29T00:43:18.169Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
