@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 00:53:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Nov 2015 00:53:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Move Up / Move Down]]></title>
+            <description><![CDATA[<article><h1>Move Up / Move Down</h1><p>The Move Up and Move Down buttons allow you to place the image above or below text within your blog post. </p><img src="https://i.ytimg.com/vi/Ow7dRdzWeNI/hqdefault.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thegridsupport/move-up-move-down/index.html</link>
+            <guid isPermaLink="false">c5e7802d-be45-4a3a-be70-e2e5190d2e9b</guid>
+            <pubDate>Sun, 29 Nov 2015 00:53:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brand Image - Influence the color of your site]]></title>
             <description><![CDATA[<article><h1>Brand Image - Influence the color of your site</h1><p>You can define the spectrum of colors used on your site by adding a Brand Image. The colors from the image you upload, will be extracted and applied in the design of your site. You can then use the slider to select how "branded" you want your site to look.</p><img src="https://i.ytimg.com/vi/e3aB2Ju0scY/hqdefault.jpg"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/thegridsupport/how-to-enable-sharing-on-ios/index.html</link>
             <guid isPermaLink="false">8ece897e-758a-4ec6-a49a-fff0c92e7ef8</guid>
             <pubDate>Sat, 28 Nov 2015 23:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Move Up / Move Down]]></title>
-            <description><![CDATA[<article><h1>Move Up / Move Down</h1><p>The Move Up and Move Down buttons allow you to place the image above or below text within your blog post. </p><img src="https://i.ytimg.com/vi/Ow7dRdzWeNI/hqdefault.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/move-up-move-down/index.html</link>
-            <guid isPermaLink="false">c5e7802d-be45-4a3a-be70-e2e5190d2e9b</guid>
-            <pubDate>Sat, 28 Nov 2015 23:38:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Disable Crop and Filter]]></title>
