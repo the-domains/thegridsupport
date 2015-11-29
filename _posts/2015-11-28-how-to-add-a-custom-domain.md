@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - domain
   - duration
@@ -16,8 +16,8 @@ keywords:
   - github
   - name
 description: ''
-datePublished: '2015-11-29T00:52:29.386Z'
-dateModified: '2015-11-29T00:52:26.918Z'
+datePublished: '2015-11-29T07:46:28.905Z'
+dateModified: '2015-11-29T07:46:25.235Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
