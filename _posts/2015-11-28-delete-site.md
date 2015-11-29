@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=JwaOYl7d2qs'
 inLanguage: en
 starred: true
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - website
   - cpanel
 description: Uploaded by Jordy Webb on 2015-11-28.
-datePublished: '2015-11-28T23:29:41.576Z'
-dateModified: '2015-11-28T23:29:38.205Z'
+datePublished: '2015-11-29T01:16:27.242Z'
+dateModified: '2015-11-29T01:16:24.003Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -43,7 +44,6 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-url: how-to-delete-a-site/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
