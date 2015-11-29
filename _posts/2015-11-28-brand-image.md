@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=e3aB2Ju0scY'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - duration
   - brand
@@ -17,8 +17,8 @@ keywords:
   - summer
   - stefan
 description: How to add a Brand Image and Change Color Settings
-datePublished: '2015-11-29T00:49:06.899Z'
-dateModified: '2015-11-29T00:49:02.890Z'
+datePublished: '2015-11-29T00:53:30.465Z'
+dateModified: '2015-11-29T00:53:28.597Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -35,7 +35,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=e3aB2Ju0scY&feature=applinks'
     type: web
-title: Brand Image - Influence the color of your site
+title: "Brand Image\_"
 sourcePath: _posts/2015-11-28-brand-image.md
 published: true
 authors: []
@@ -48,7 +48,7 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-# Brand Image - Influence the color of your site
+# Brand Image 
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fe3aB2Ju0scY%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De3aB2Ju0scY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fe3aB2Ju0scY%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
 
