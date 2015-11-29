@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=EvjzWWWXryI'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - straighten
   - adobe
 description: Uploaded by Jordy Webb on 2015-11-26.
-datePublished: '2015-11-28T22:40:44.304Z'
-dateModified: '2015-11-28T22:40:41.418Z'
+datePublished: '2015-11-29T00:26:26.657Z'
+dateModified: '2015-11-29T00:26:23.288Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -36,14 +35,15 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=EvjzWWWXryI&feature=applinks'
     type: web
 title: How to Disable Crop and Filter
+sourcePath: _posts/2015-11-28-how-to-disable-crop-and-filter.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-11-28-how-to-disable-crop-and-filter.md
-published: true
+url: how-to-disable-crop-and-filter/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
