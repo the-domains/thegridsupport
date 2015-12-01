@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=_WU212tZLOI'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - duration
   - content
@@ -17,8 +17,8 @@ keywords:
   - panasonic
   - mobile
 description: ''
-datePublished: '2015-12-01T18:06:40.255Z'
-dateModified: '2015-12-01T18:06:36.308Z'
+datePublished: '2015-12-01T18:27:56.871Z'
+dateModified: '2015-12-01T18:27:52.765Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
