@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 18:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2015 18:06:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Share Content from the Web]]></title>
+            <description><![CDATA[<article><h1>Share Content from the Web</h1><p>With the Chrome extension installed, you can easily share content from anywhere on the web to The Grid.</p><img src="https://i.ytimg.com/vi/_WU212tZLOI/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_WU212tZLOI</link>
+            <guid isPermaLink="false">d6f41f2e-4eca-4d85-b85e-2763ae536e4a</guid>
+            <pubDate>Tue, 01 Dec 2015 18:06:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Add an Image to a Post]]></title>
             <description><![CDATA[<article><h1>Add an Image to a Post</h1><p>You can add images to your post via the + icon on the post editor. Click the + and select them, then add them to your post. If you have more than one awesome image to show off, go ahead, you can share multiple ones at once.</p><img src="https://i.ytimg.com/vi/O8zrmiiNbUE/hqdefault.jpg"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://www.youtube.com/watch?v=zekkZMEERj4</link>
             <guid isPermaLink="false">018c8587-04f0-4a2f-b95d-bd70de505146</guid>
             <pubDate>Tue, 01 Dec 2015 05:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Share Content from the Web]]></title>
-            <description><![CDATA[<article><h1>Share Content from the Web</h1><p>With the Chrome extension installed, you can easily share content from anywhere on the web to The Grid.</p><img src="https://i.ytimg.com/vi/_WU212tZLOI/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=_WU212tZLOI</link>
-            <guid isPermaLink="false">d6f41f2e-4eca-4d85-b85e-2763ae536e4a</guid>
-            <pubDate>Tue, 01 Dec 2015 05:33:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Add a Custom Domain]]></title>
