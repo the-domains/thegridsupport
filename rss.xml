@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 05:40:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2015 18:06:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Add an Image to a Post]]></title>
+            <description><![CDATA[<article><h1>Add an Image to a Post</h1><p>You can add images to your post via the + icon on the post editor. Click the + and select them, then add them to your post. If you have more than one awesome image to show off, go ahead, you can share multiple ones at once.</p><img src="https://i.ytimg.com/vi/O8zrmiiNbUE/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=O8zrmiiNbUE</link>
+            <guid isPermaLink="false">8f862277-7ff4-43cd-b481-0c19ce373fdf</guid>
+            <pubDate>Tue, 01 Dec 2015 18:06:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to enable sharing on iOS]]></title>
             <description><![CDATA[<article><h1>How to enable sharing on iOS</h1><p>The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid. After you enable sharing, you can also share content from your browser.</p><img src="https://i.ytimg.com/vi/549V_OvFzxQ/hqdefault.jpg"></article>]]></description>
@@ -21,18 +28,18 @@
             <pubDate>Sun, 29 Nov 2015 07:50:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to Delete a Site]]></title>
+            <description><![CDATA[<article><h1>How to Delete a Site</h1><p>Don't like your site? That's ok, just can it! The good news is that you can have 7 sites active with your Founding Membership, so don't get too hasty! However, if you really want to delete one, here's how you do it.</p><img src="https://i.ytimg.com/vi/JwaOYl7d2qs/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=JwaOYl7d2qs</link>
+            <guid isPermaLink="false">3ef3fd6b-af1a-48cf-955b-d5ae39247270</guid>
+            <pubDate>Tue, 01 Dec 2015 05:42:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Publish a Post]]></title>
             <description><![CDATA[<article><h1>How to Publish a Post</h1><p>Ok, so you've created or shared some amazing content. Don't stop there, publish that thing! Select the post, click Publish, then choose the site upon which you are going to bestow your awesomness!</p><img src="https://i.ytimg.com/vi/zekkZMEERj4/hqdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=zekkZMEERj4</link>
             <guid isPermaLink="false">018c8587-04f0-4a2f-b95d-bd70de505146</guid>
             <pubDate>Tue, 01 Dec 2015 05:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Add an Image to a Post]]></title>
-            <description><![CDATA[<article><h1>Add an Image to a Post</h1><p>You can add images to your post via the + icon on the post editor. Click the + and select them, then add them to your post. If you have more than one awesome image to show off, go ahead, you can share multiple ones at once.</p><img src="https://i.ytimg.com/vi/O8zrmiiNbUE/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=O8zrmiiNbUE</link>
-            <guid isPermaLink="false">8f862277-7ff4-43cd-b481-0c19ce373fdf</guid>
-            <pubDate>Tue, 01 Dec 2015 05:38:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Share Content from the Web]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=e3aB2Ju0scY</link>
             <guid isPermaLink="false">63a02f0e-7611-4b57-b2d3-1316475f5414</guid>
             <pubDate>Sun, 29 Nov 2015 01:45:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Disable Crop and Filter]]></title>
-            <description><![CDATA[<article><h1>How to Disable Crop and Filter</h1><img src="https://i.ytimg.com/vi/EvjzWWWXryI/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=EvjzWWWXryI</link>
-            <guid isPermaLink="false">72bf2803-9279-4e7d-9995-b113a6082dd0</guid>
-            <pubDate>Sun, 29 Nov 2015 01:39:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
