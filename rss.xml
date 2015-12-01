@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 05:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Dec 2015 05:38:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to enable sharing on iOS]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/watch?v=Ow7dRdzWeNI</link>
             <guid isPermaLink="false">c5e7802d-be45-4a3a-be70-e2e5190d2e9b</guid>
             <pubDate>Sun, 29 Nov 2015 07:50:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Add an Image to a Post]]></title>
+            <description><![CDATA[<article><h1>Add an Image to a Post</h1><img src="https://i.ytimg.com/vi/O8zrmiiNbUE/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=O8zrmiiNbUE</link>
+            <guid isPermaLink="false">8f862277-7ff4-43cd-b481-0c19ce373fdf</guid>
+            <pubDate>Tue, 01 Dec 2015 05:38:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Share Content from the Web]]></title>
