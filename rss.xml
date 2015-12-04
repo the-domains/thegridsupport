@@ -4,21 +4,21 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 09:35:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Dec 2015 09:35:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to enable sharing on iOS]]></title>
+            <description><![CDATA[<article><h1>How to enable sharing on iOS</h1><p>The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid. After you enable sharing, you can also share content from your browser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a827b45e6eb4ebb7dc98e433a094abe8bcdf8a78.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=549V_OvFzxQ</link>
+            <guid isPermaLink="false">8ece897e-758a-4ec6-a49a-fff0c92e7ef8</guid>
+            <pubDate>Fri, 04 Dec 2015 09:34:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Embed From SoundCloud]]></title>
             <description><![CDATA[<article><h1>Embed From SoundCloud</h1><p>How to Embed Audio from SoundCloud to Your Site</p><img src="https://i.ytimg.com/vi/WmhHFuHorxA/hqdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=WmhHFuHorxA&amp;feature=youtu.be</link>
             <guid isPermaLink="false">a19e1362-3836-450c-ab6c-eab6814877d9</guid>
             <pubDate>Thu, 03 Dec 2015 07:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to enable sharing on iOS]]></title>
-            <description><![CDATA[<article><h1>How to enable sharing on iOS</h1><p>The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid. After you enable sharing, you can also share content from your browser.</p><img src="https://i.ytimg.com/vi/549V_OvFzxQ/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=549V_OvFzxQ</link>
-            <guid isPermaLink="false">8ece897e-758a-4ec6-a49a-fff0c92e7ef8</guid>
-            <pubDate>Fri, 04 Dec 2015 09:34:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Share Content from the Web]]></title>
