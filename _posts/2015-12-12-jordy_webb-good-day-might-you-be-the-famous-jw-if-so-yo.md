@@ -15,10 +15,10 @@ author:
           - 71
 related: []
 publisher:
-  url: 'http://twitter.com'
   name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
   domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 keywords:
   - jordy_webb
   - location
@@ -34,14 +34,16 @@ description: '@Jordy_Webb Good day ! Might you be the famous jw ? If so you got 
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/SPMLST/status/674556341671825408'
-datePublished: '2015-12-12T04:20:55.822Z'
-dateModified: '2015-12-12T04:12:57.279Z'
+datePublished: '2015-12-12T05:22:12.751Z'
+dateModified: '2015-12-12T05:21:32.573Z'
 title: ''
 sourcePath: _posts/2015-12-12-jordy_webb-good-day-might-you-be-the-famous-jw-if-so-yo.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _type: Comment
 _context: 'http://schema.org'
 
