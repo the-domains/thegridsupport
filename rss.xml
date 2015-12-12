@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 04:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2015 05:21:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to create a navigation link]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.youtube.com/watch?v=WmhHFuHorxA&amp;feature=youtu.be</link>
             <guid isPermaLink="false">a19e1362-3836-450c-ab6c-eab6814877d9</guid>
             <pubDate>Thu, 10 Dec 2015 06:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Share from Twitter]]></title>
+            <description><![CDATA[<article><h1>Share from Twitter</h1><p>Uploaded by Jordy Webb on 2015-12-12.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab5cb0bdf97d238f58494b8541b13d7b0d808144.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=TuRreWLZfwM</link>
+            <guid isPermaLink="false">3f8c44b9-6699-4ac2-badd-548a352eb036</guid>
+            <pubDate>Sat, 12 Dec 2015 05:20:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=JwaOYl7d2qs</link>
             <guid isPermaLink="false">3ef3fd6b-af1a-48cf-955b-d5ae39247270</guid>
             <pubDate>Tue, 01 Dec 2015 05:42:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Publish a Post]]></title>
-            <description><![CDATA[<article><h1>How to Publish a Post</h1><p>Ok, so you've created or shared some amazing content. Don't stop there, publish that thing! Select the post, click Publish, then choose the site upon which you are going to bestow your awesomness!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9a99c3884ac586a6491c0074e19c22418d5ed61.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=zekkZMEERj4</link>
-            <guid isPermaLink="false">018c8587-04f0-4a2f-b95d-bd70de505146</guid>
-            <pubDate>Tue, 01 Dec 2015 05:40:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
