@@ -4,11 +4,18 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 20:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Dec 2015 23:58:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[How to create a navigation link]]></title>
+            <description><![CDATA[<article><h1>How to create a navigation link</h1><p>You can place a post that you would like to highlight in the header of your page as a navigation link. Here's the scoop:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/899d569c5b317dda4f31f26fd6e73bdcaa85d915.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=q2XRBfSB_Bo</link>
+            <guid isPermaLink="false">67403302-dbd3-448a-b4cf-25b19beac582</guid>
+            <pubDate>Fri, 11 Dec 2015 23:58:16 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Add a Custom Domain]]></title>
-            <description><![CDATA[<article><h1>How to Add a Custom Domain</h1><p>Have your own domain? You can use it! This video will show you how to point your domain to us. You'll be able to do this by creating an A record and adding 52.32.215.222 as the IP.</p><img src="https://i.ytimg.com/vi/VoiM2OLLx8E/hqdefault.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How to Add a Custom Domain</h1><p>Have your own domain? You can use it! This video will show you how to point your domain to us. You'll be able to do this by creating an A record and adding 52.32.215.222 as the IP.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03574df6ed7f413028023d78cf0daaca5973d7e3.jpg"></article>]]></description>
             <link>https://thegrid.ai/thegridsupport/how-to-add-a-custom-domain/index.html</link>
             <guid isPermaLink="false">65f37491-fd73-4435-9b0b-6a4f65a68d89</guid>
             <pubDate>Fri, 11 Dec 2015 20:30:09 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thegridsupport/how-to-create-a-new-site-on-the-grid/index.html</link>
             <guid isPermaLink="false">885abb19-e2ad-4e87-9267-aa2f222b45be</guid>
             <pubDate>Sun, 29 Nov 2015 01:55:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create a navigation link]]></title>
-            <description><![CDATA[<article><h1>How to create a navigation link</h1><p>You can place a post that you would like to highlight in the header of your page as a navigation link. Here's the scoop:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/899d569c5b317dda4f31f26fd6e73bdcaa85d915.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=q2XRBfSB_Bo</link>
-            <guid isPermaLink="false">67403302-dbd3-448a-b4cf-25b19beac582</guid>
-            <pubDate>Sun, 29 Nov 2015 07:31:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
