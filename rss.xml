@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Dec 2015 23:58:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2015 04:20:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to create a navigation link]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.youtube.com/watch?v=WmhHFuHorxA&amp;feature=youtu.be</link>
             <guid isPermaLink="false">a19e1362-3836-450c-ab6c-eab6814877d9</guid>
             <pubDate>Thu, 10 Dec 2015 06:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>@Jordy_Webb Good day ! Might you be the famous jw ? If so you got a huge job.I appreciated your personal replies!</p>]]></description>
+            <link>https://twitter.com/SPMLST/status/674556341671825408</link>
+            <guid isPermaLink="false">edd13074-3052-44b9-a4eb-36a42a98ff8f</guid>
+            <pubDate>Sat, 12 Dec 2015 04:20:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Share Content from the Web]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=zekkZMEERj4</link>
             <guid isPermaLink="false">018c8587-04f0-4a2f-b95d-bd70de505146</guid>
             <pubDate>Tue, 01 Dec 2015 05:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create a new site on The Grid]]></title>
-            <description><![CDATA[<article><h1>How to create a new site on The Grid</h1><p>Let's get started, shall we? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d294bdf0b4449fc630346d57995c94f3f652c9fe.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/how-to-create-a-new-site-on-the-grid/index.html</link>
-            <guid isPermaLink="false">885abb19-e2ad-4e87-9267-aa2f222b45be</guid>
-            <pubDate>Sun, 29 Nov 2015 01:55:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
