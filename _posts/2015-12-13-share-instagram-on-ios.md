@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Jordy Webb
-    url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=ZKoVCBXGAhA&feature=youtu.be'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - instagram
@@ -21,7 +17,13 @@ keywords:
   - app
   - iphone
 description: Uploaded by Jordy Webb on 2015-12-13.
-inLanguage: en
+datePublished: '2015-12-13T21:47:52.819Z'
+dateModified: '2015-12-13T21:47:49.732Z'
+author:
+  - name: Jordy Webb
+    url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=ZKoVCBXGAhA&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=ZKoVCBXGAhA&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=ZKoVCBXGAhA&feature=youtu.be'
-title: Share Instagram on iOS
-datePublished: '2015-12-13T21:45:30.394Z'
-dateModified: '2015-12-13T21:44:45.388Z'
+title: Share Instagram with iOS App
 sourcePath: _posts/2015-12-13-share-instagram-on-ios.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
