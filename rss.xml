@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 04:27:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2015 21:45:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to create a navigation link]]></title>
@@ -33,6 +33,13 @@
             <link>https://www.youtube.com/watch?v=WmhHFuHorxA&amp;feature=youtu.be</link>
             <guid isPermaLink="false">a19e1362-3836-450c-ab6c-eab6814877d9</guid>
             <pubDate>Thu, 10 Dec 2015 06:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Share Instagram on iOS]]></title>
+            <description><![CDATA[<article><h1>Share Instagram on iOS</h1><p>Uploaded by Jordy Webb on 2015-12-13.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93fcffb2c15ec5cf89b560b03435e0e198bc8e6e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=ZKoVCBXGAhA&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">96c6305b-b55b-4274-9179-590ffa901449</guid>
+            <pubDate>Sun, 13 Dec 2015 21:45:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Share from Twitter]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=Ow7dRdzWeNI</link>
             <guid isPermaLink="false">c5e7802d-be45-4a3a-be70-e2e5190d2e9b</guid>
             <pubDate>Sun, 29 Nov 2015 07:50:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Delete a Site]]></title>
-            <description><![CDATA[<article><h1>How to Delete a Site</h1><p>Don't like your site? That's ok, just can it! The good news is that you can have 7 sites active with your Founding Membership, so don't get too hasty! However, if you really want to delete one, here's how you do it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50c6b9e99dce1a75aa189b4f16fc99c014146d0b.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=JwaOYl7d2qs</link>
-            <guid isPermaLink="false">3ef3fd6b-af1a-48cf-955b-d5ae39247270</guid>
-            <pubDate>Tue, 01 Dec 2015 05:42:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
