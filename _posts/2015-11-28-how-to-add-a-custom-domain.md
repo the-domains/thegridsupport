@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=VoiM2OLLx8E'
 inLanguage: en
 starred: true
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - github
   - name
 description: ''
-datePublished: '2015-12-11T20:30:09.296Z'
-dateModified: '2015-12-11T20:30:06.649Z'
+datePublished: '2015-12-13T04:26:48.128Z'
+dateModified: '2015-12-13T04:26:45.605Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -43,7 +44,6 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-url: how-to-add-a-custom-domain/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
