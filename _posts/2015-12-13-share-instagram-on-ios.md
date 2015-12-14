@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ZKoVCBXGAhA&feature=youtu.be'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - duration
   - instagram
@@ -17,8 +17,8 @@ keywords:
   - app
   - iphone
 description: Uploaded by Jordy Webb on 2015-12-13.
-datePublished: '2015-12-13T23:04:36.106Z'
-dateModified: '2015-12-13T23:04:25.540Z'
+datePublished: '2015-12-14T07:19:18.066Z'
+dateModified: '2015-12-14T07:19:14.247Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
