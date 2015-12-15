@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=zekkZMEERj4'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - duration
   - wordpress
@@ -17,8 +17,8 @@ keywords:
   - linkedin
   - blogger
 description: ''
-datePublished: '2015-12-01T05:40:11.920Z'
-dateModified: '2015-12-01T05:40:01.577Z'
+datePublished: '2015-12-15T22:25:46.581Z'
+dateModified: '2015-12-15T22:25:43.375Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
