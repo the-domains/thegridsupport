@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 07:59:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Dec 2015 22:26:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Publish a Post]]></title>
+            <description><![CDATA[<article><h1>How to Publish a Post</h1><p>Ok, so you've created or shared some amazing content. Don't stop there, publish that thing! Select the post, click Publish, then choose the site upon which you are going to bestow your awesomness!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9a99c3884ac586a6491c0074e19c22418d5ed61.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=zekkZMEERj4</link>
+            <guid isPermaLink="false">018c8587-04f0-4a2f-b95d-bd70de505146</guid>
+            <pubDate>Tue, 15 Dec 2015 22:25:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Change the Layout Filter]]></title>
             <description><![CDATA[<article><h1>How to Change the Layout Filter</h1><p>We have a bunch of rad layout filters to chose from. Just head to the layout settings and pick the one you want on the slider.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fd7f12743490f686af8e7fb2f12f749932cd73c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=_WU212tZLOI</link>
             <guid isPermaLink="false">d6f41f2e-4eca-4d85-b85e-2763ae536e4a</guid>
             <pubDate>Tue, 01 Dec 2015 18:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Add an Image to a Post]]></title>
-            <description><![CDATA[<article><h1>Add an Image to a Post</h1><p>You can add images to your post via the + icon on the post editor. Click the + and select them, then add them to your post. If you have more than one awesome image to show off, go ahead, you can share multiple ones at once.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc30cd34f4e10074a3e83630e93b776764a7285e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=O8zrmiiNbUE</link>
-            <guid isPermaLink="false">8f862277-7ff4-43cd-b481-0c19ce373fdf</guid>
-            <pubDate>Tue, 01 Dec 2015 18:32:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
