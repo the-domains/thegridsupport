@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=ZKoVCBXGAhA'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - photos
   - arad
 description: Uploaded by Jordy Webb on 2015-12-13.
-datePublished: '2015-12-17T08:02:06.445Z'
-dateModified: '2015-12-17T07:59:51.813Z'
+datePublished: '2015-12-17T15:10:37.907Z'
+dateModified: '2015-12-17T15:10:34.161Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -44,6 +43,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: share-instagram-on-ios/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
