@@ -22,14 +22,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://us6.campaign-archive1.com/?u=e3e55c4321c915d4d6fb9f8f0&id=da4369921d'
 title: The Grid - December Update
-datePublished: '2015-12-17T15:41:09.386Z'
-dateModified: '2015-12-17T15:41:02.890Z'
+datePublished: '2015-12-17T15:40:52.739Z'
+dateModified: '2015-12-17T15:40:40.661Z'
 sourcePath: _posts/2015-12-17-the-grid-december-update.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: false
+starred: true
 authors: []
 _context: 'http://schema.org'
 _type: MediaObject
