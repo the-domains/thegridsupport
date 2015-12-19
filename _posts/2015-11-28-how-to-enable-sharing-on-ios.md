@@ -17,8 +17,8 @@ keywords:
   - usb
   - hotspot
 description: ''
-datePublished: '2015-12-19T07:29:44.257Z'
-dateModified: '2015-12-19T07:25:57.434Z'
+datePublished: '2015-12-19T07:41:05.204Z'
+dateModified: '2015-12-19T07:41:01.548Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
