@@ -4,14 +4,21 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 07:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 07:41:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Embed From SoundCloud]]></title>
+            <description><![CDATA[<article><h1>Embed From SoundCloud</h1><p>How to Embed Audio from SoundCloud to Your Site</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0c4e61b4d7ddf6295e7665a283684966e92c180.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=WmhHFuHorxA&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">a19e1362-3836-450c-ab6c-eab6814877d9</guid>
+            <pubDate>Sat, 19 Dec 2015 07:29:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to enable sharing on iOS]]></title>
             <description><![CDATA[<article><h1>How to enable sharing on iOS</h1><p>The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid. After you enable sharing, you can also share content from your browser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a827b45e6eb4ebb7dc98e433a094abe8bcdf8a78.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=549V_OvFzxQ</link>
             <guid isPermaLink="false">8ece897e-758a-4ec6-a49a-fff0c92e7ef8</guid>
-            <pubDate>Sat, 19 Dec 2015 07:29:44 GMT</pubDate>
+            <pubDate>Sat, 19 Dec 2015 07:41:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Add a Custom Domain]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>@Jordy_Webb Good day ! Might you be the famous jw ? If so you got a huge job.I appreciated your personal replies!</p>]]></description>
             <link>https://twitter.com/SPMLST/status/674556341671825408</link>
             <guid isPermaLink="false">edd13074-3052-44b9-a4eb-36a42a98ff8f</guid>
-            <pubDate>Sat, 19 Dec 2015 07:29:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Add an Image to a Post]]></title>
-            <description><![CDATA[<article><h1>Add an Image to a Post</h1><p>You can add images to your post via the + icon on the post editor. Click the + and select them, then add them to your post. If you have more than one awesome image to show off, go ahead, you can share multiple ones at once.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc30cd34f4e10074a3e83630e93b776764a7285e.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=O8zrmiiNbUE</link>
-            <guid isPermaLink="false">8f862277-7ff4-43cd-b481-0c19ce373fdf</guid>
             <pubDate>Sat, 19 Dec 2015 07:29:44 GMT</pubDate>
         </item>
     </channel>
