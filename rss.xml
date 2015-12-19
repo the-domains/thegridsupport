@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 07:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 07:30:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to Publish a Post]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Sat, 19 Dec 2015 07:28:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Brand Image ]]></title>
+            <description><![CDATA[<article><h1>Brand Image </h1><p>You can define the spectrum of colors used on your site by adding a Brand Image. The colors from the image you upload, will be extracted and applied in the design of your site. You can then use the slider to select how "branded" you want your site to look.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9eb3be1e30b14572a65e1b291a53247ffb0b6802.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=e3aB2Ju0scY</link>
+            <guid isPermaLink="false">63a02f0e-7611-4b57-b2d3-1316475f5414</guid>
+            <pubDate>Sat, 19 Dec 2015 07:29:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>@Jordy_Webb Good day ! Might you be the famous jw ? If so you got a huge job.I appreciated your personal replies!</p>]]></description>
             <link>https://twitter.com/SPMLST/status/674556341671825408</link>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=zekkZMEERj4</link>
             <guid isPermaLink="false">00d3469c-6022-45f2-9c67-d902c7a1cd98</guid>
             <pubDate>Sat, 19 Dec 2015 07:28:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Share Content from the Web]]></title>
-            <description><![CDATA[<article><h1>Share Content from the Web</h1><p>With the Chrome extension installed, you can easily share content from anywhere on the web to The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acdb865c7748b3343096f520b529697756556378.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=_WU212tZLOI</link>
-            <guid isPermaLink="false">d6f41f2e-4eca-4d85-b85e-2763ae536e4a</guid>
-            <pubDate>Sat, 19 Dec 2015 07:27:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
