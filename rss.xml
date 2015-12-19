@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 07:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 07:27:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Share Content from the Web]]></title>
+            <description><![CDATA[<article><h1>Share Content from the Web</h1><p>With the Chrome extension installed, you can easily share content from anywhere on the web to The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acdb865c7748b3343096f520b529697756556378.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=_WU212tZLOI</link>
+            <guid isPermaLink="false">d6f41f2e-4eca-4d85-b85e-2763ae536e4a</guid>
+            <pubDate>Sat, 19 Dec 2015 07:27:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Disable Crop and Filter]]></title>
             <description><![CDATA[<article><h1>How to Disable Crop and Filter</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd24a2dbaa034460e6c2fedd604e10291b4b2b9b.jpg"></article>]]></description>
