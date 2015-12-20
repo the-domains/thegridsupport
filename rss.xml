@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 06:52:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 06:53:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Welcome, Beta Users! Here's quick run through to get you up and running on The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4caaea025493fc6d3d970ac12f9930194ef24fa.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=u6zGCjfF1dE&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">7c0edb89-9220-4189-9ac1-97b2e29d5156</guid>
+            <pubDate>Sun, 20 Dec 2015 06:53:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Embed From SoundCloud]]></title>
             <description><![CDATA[<article><h1>Embed From SoundCloud</h1><p>How to Embed Audio from SoundCloud to Your Site</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0c4e61b4d7ddf6295e7665a283684966e92c180.jpg"></article>]]></description>
@@ -61,13 +68,6 @@
             <link>https://www.youtube.com/watch?v=q2XRBfSB_Bo</link>
             <guid isPermaLink="false">67403302-dbd3-448a-b4cf-25b19beac582</guid>
             <pubDate>Sat, 19 Dec 2015 07:28:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Welcome, Beta Users! Here's quick run through to get you up and running on The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4caaea025493fc6d3d970ac12f9930194ef24fa.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=u6zGCjfF1dE&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">7c0edb89-9220-4189-9ac1-97b2e29d5156</guid>
-            <pubDate>Sun, 20 Dec 2015 06:52:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Brand Image ]]></title>
