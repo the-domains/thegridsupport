@@ -1,14 +1,10 @@
 ---
-author:
-  - name: The Grid
-    url: 'https://www.youtube.com/user/TheGridio'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=u6zGCjfF1dE&feature=youtu.be'
+inLanguage: en
+starred: true
 keywords:
   - grid
   - duration
@@ -21,7 +17,13 @@ keywords:
   - '2015'
   - 029
 description: "Welcome, Beta Users! Here's quick run through to get you up and running on The Grid."
-inLanguage: en
+datePublished: '2015-12-20T06:53:12.855Z'
+dateModified: '2015-12-20T06:53:04.836Z'
+author:
+  - name: The Grid
+    url: 'https://www.youtube.com/user/TheGridio'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=u6zGCjfF1dE&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=u6zGCjfF1dE&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=u6zGCjfF1dE&feature=youtu.be'
 title: Getting Started on The Grid
-datePublished: '2015-12-20T06:52:52.482Z'
-dateModified: '2015-12-20T06:52:04.059Z'
 sourcePath: _posts/2015-12-20-getting-started-on-the-grid.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
