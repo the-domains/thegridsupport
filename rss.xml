@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 07:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 06:52:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Embed From SoundCloud]]></title>
@@ -63,17 +63,17 @@
             <pubDate>Sat, 19 Dec 2015 07:28:30 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Welcome, Beta Users! Here's quick run through to get you up and running on The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4caaea025493fc6d3d970ac12f9930194ef24fa.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=u6zGCjfF1dE&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">7c0edb89-9220-4189-9ac1-97b2e29d5156</guid>
+            <pubDate>Sun, 20 Dec 2015 06:52:52 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brand Image ]]></title>
             <description><![CDATA[<article><h1>Brand Image </h1><p>You can define the spectrum of colors used on your site by adding a Brand Image. The colors from the image you upload, will be extracted and applied in the design of your site. You can then use the slider to select how "branded" you want your site to look.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9eb3be1e30b14572a65e1b291a53247ffb0b6802.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=e3aB2Ju0scY</link>
             <guid isPermaLink="false">63a02f0e-7611-4b57-b2d3-1316475f5414</guid>
-            <pubDate>Sat, 19 Dec 2015 07:29:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>@Jordy_Webb Good day ! Might you be the famous jw ? If so you got a huge job.I appreciated your personal replies!</p>]]></description>
-            <link>https://twitter.com/SPMLST/status/674556341671825408</link>
-            <guid isPermaLink="false">edd13074-3052-44b9-a4eb-36a42a98ff8f</guid>
             <pubDate>Sat, 19 Dec 2015 07:29:44 GMT</pubDate>
         </item>
     </channel>
