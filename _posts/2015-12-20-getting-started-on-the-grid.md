@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=u6zGCjfF1dE&feature=youtu.be'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - grid
   - duration
@@ -17,8 +17,8 @@ keywords:
   - '2015'
   - 029
 description: "Welcome, Beta Users! Here's quick run through to get you up and running on The Grid."
-datePublished: '2015-12-20T07:48:31.098Z'
-dateModified: '2015-12-20T07:48:28.625Z'
+datePublished: '2015-12-22T05:15:20.702Z'
+dateModified: '2015-12-22T05:15:17.836Z'
 author:
   - name: The Grid
     url: 'https://www.youtube.com/user/TheGridio'
