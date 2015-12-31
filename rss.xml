@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 10:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 10:30:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid - December Update]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Thu, 24 Dec 2015 01:45:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Embed video using android]]></title>
+            <description><![CDATA[<article><h1>Embed video using android</h1><p>Uploaded by Jordy Webb on 2015-12-31.</p></article>]]></description>
+            <link>https://youtu.be/urDgrl3ZMEw</link>
+            <guid isPermaLink="false">181ae84b-4d19-4198-b033-15b45b722ce8</guid>
+            <pubDate>Thu, 31 Dec 2015 10:29:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to create a new site on The Grid]]></title>
             <description><![CDATA[<article><h1>How to create a new site on The Grid</h1><p>Let's get started, shall we? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d294bdf0b4449fc630346d57995c94f3f652c9fe.jpg"></article>]]></description>
             <link>https://thegrid.ai/thegridsupport/how-to-create-a-new-site-on-the-grid/index.html</link>
             <guid isPermaLink="false">885abb19-e2ad-4e87-9267-aa2f222b45be</guid>
             <pubDate>Thu, 31 Dec 2015 10:08:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Embed video using android]]></title>
-            <description><![CDATA[<article><h1>Embed video using android</h1><p>Uploaded by Jordy Webb on 2015-12-31.</p></article>]]></description>
-            <link>https://youtu.be/g47NHAnsDSk</link>
-            <guid isPermaLink="false">fefd77f3-11ae-49ea-8981-b4bfa78f7651</guid>
-            <pubDate>Thu, 31 Dec 2015 10:02:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Embed From SoundCloud]]></title>
