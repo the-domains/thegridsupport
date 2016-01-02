@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 03:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2016 07:35:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid - December Update]]></title>
@@ -19,6 +19,13 @@
             <link>https://youtu.be/urDgrl3ZMEw</link>
             <guid isPermaLink="false">181ae84b-4d19-4198-b033-15b45b722ce8</guid>
             <pubDate>Thu, 31 Dec 2015 10:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unpublish a Post Using Android]]></title>
+            <description><![CDATA[<article><h1>Unpublish a Post Using Android</h1><p>Uploaded by Jordy Webb on 2016-01-02.</p></article>]]></description>
+            <link>https://youtu.be/asL1B_d4-HY</link>
+            <guid isPermaLink="false">007955a5-b327-4603-8f8d-ad11e55443f8</guid>
+            <pubDate>Sat, 02 Jan 2016 07:34:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Grid]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Share from Twitter</h1><p>How to share tweets to your site</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab5cb0bdf97d238f58494b8541b13d7b0d808144.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=TuRreWLZfwM</link>
             <guid isPermaLink="false">3f8c44b9-6699-4ac2-badd-548a352eb036</guid>
-            <pubDate>Sat, 19 Dec 2015 07:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Change the Layout Filter]]></title>
-            <description><![CDATA[<article><h1>How to Change the Layout Filter</h1><p>We have a bunch of rad layout filters to chose from. Just head to the layout settings and pick the one you want on the slider.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7fd7f12743490f686af8e7fb2f12f749932cd73c.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=90Ux7Y8p7as</link>
-            <guid isPermaLink="false">83adc2ea-b276-4529-8a97-7f9d0c1514ef</guid>
             <pubDate>Sat, 19 Dec 2015 07:29:43 GMT</pubDate>
         </item>
     </channel>
