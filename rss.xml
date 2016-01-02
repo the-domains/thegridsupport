@@ -4,21 +4,28 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 10:36:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2016 03:07:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid - December Update]]></title>
-            <description><![CDATA[<article><h1>The Grid - December Update</h1><p>We got some great responses from our last update , which was pretty big deal to us because when we're laying it all out there like that - hopes, dreams, faults, fears, etc. - we're definitely exposing our collective underbelly. But you guys were awesome about it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7040432498df5b787683897b1800e90ab461183.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Grid - December Update</h1><p>We got some great responses from our last update , which was pretty big deal to us because when we're laying it all out there like that - hopes, dreams, faults, fears, etc. - we're definitely exposing our collective underbelly. But you guys were awesome about it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc9a3a6218c8668d210d7c59813c8eac5dea2921.jpg"></article>]]></description>
             <link>http://us6.campaign-archive1.com/?u=e3e55c4321c915d4d6fb9f8f0&amp;id=da4369921d</link>
             <guid isPermaLink="false">fa513074-2d8d-448f-9932-f9d21bd2c394</guid>
             <pubDate>Thu, 31 Dec 2015 10:35:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Embed video using android]]></title>
-            <description><![CDATA[<article><h1>Embed video using android</h1><p>Uploaded by Jordy Webb on 2015-12-31.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Embed video using android</h1><p>How to embed video using Android OS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d9a2d8f48916d61bfa11aa73f3ff13b417f6ff7.jpg"></article>]]></description>
             <link>https://youtu.be/urDgrl3ZMEw</link>
             <guid isPermaLink="false">181ae84b-4d19-4198-b033-15b45b722ce8</guid>
             <pubDate>Thu, 31 Dec 2015 10:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Grid]]></title>
+            <description><![CDATA[<article><h1>The Grid</h1><p></p></article>]]></description>
+            <link>https://app.thegrid.io/drafts</link>
+            <guid isPermaLink="false">938e1766-2dce-4630-b2a5-a596f9106aca</guid>
+            <pubDate>Sat, 02 Jan 2016 03:06:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to create a new site on The Grid]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=90Ux7Y8p7as</link>
             <guid isPermaLink="false">83adc2ea-b276-4529-8a97-7f9d0c1514ef</guid>
             <pubDate>Sat, 19 Dec 2015 07:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Share Instagram on iOS]]></title>
-            <description><![CDATA[<article><h1>Share Instagram on iOS</h1><p>Here's how you share from Instagram on iOS. You'll need to copy the share link and share from your mobile browser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93fcffb2c15ec5cf89b560b03435e0e198bc8e6e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/share-instagram-on-ios/index.html</link>
-            <guid isPermaLink="false">fa742be7-308a-455e-9dc1-896f21296f91</guid>
-            <pubDate>Thu, 24 Dec 2015 00:41:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
