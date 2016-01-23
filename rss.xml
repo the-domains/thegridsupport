@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 08:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 05:46:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to create a new site on The Grid]]></title>
@@ -26,6 +26,13 @@
             <link>https://youtu.be/urDgrl3ZMEw</link>
             <guid isPermaLink="false">181ae84b-4d19-4198-b033-15b45b722ce8</guid>
             <pubDate>Thu, 31 Dec 2015 10:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Install and Activate The Grid for Android]]></title>
+            <description><![CDATA[<article><h1>Install and Activate The Grid for Android</h1><p>Check out this tutorial I made in 3 Minutes using iorad.com.</p><img src="http://www.iorad.com/capture/tutorials/5253/17321/cover.png?1453527671000"></article>]]></description>
+            <link>https://www.iorad.com/5253/17321/Install-and-Activate-The-Grid-for-Android#viewsteps</link>
+            <guid isPermaLink="false">cdf0cab3-b796-49eb-8b36-5b8bc9a81d17</guid>
+            <pubDate>Sat, 23 Jan 2016 05:45:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unpublish a Post Using Android]]></title>
