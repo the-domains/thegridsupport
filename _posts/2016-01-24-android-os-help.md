@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T07:18:41.785Z'
+datePublished: '2016-01-24T07:18:41.822Z'
 dateModified: '2016-01-24T07:18:39.033Z'
 title: Android OS Help
 author: []
