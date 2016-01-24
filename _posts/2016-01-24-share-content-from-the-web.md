@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.iorad.com'
-  name: iorad
-  favicon: 'https://www.iorad.com/server/iorad.ico'
-  domain: www.iorad.com
-keywords: []
-description: Check out this tutorial I made in 5 Minutes using iorad.com.
-app_links: []
-isBasedOnUrl: 'https://www.iorad.com/5253/17461/Share-Content-from-the-Web'
-title: Share Content from the Web
-datePublished: '2016-01-24T06:35:47.817Z'
-dateModified: '2016-01-24T06:35:18.963Z'
-sourcePath: _posts/2016-01-24-share-content-from-the-web.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.iorad.com/5253/17461/Share-Content-from-the-Web'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-01-24T06:38:31.302Z'
+dateModified: '2016-01-24T06:38:24.814Z'
+author: []
+related: []
+app_links: []
+title: Android - Share Web Content
+sourcePath: _posts/2016-01-24-share-content-from-the-web.md
+published: true
+authors: []
+publisher:
+  name: iorad
+  domain: www.iorad.com
+  url: 'https://www.iorad.com'
+  favicon: 'https://www.iorad.com/server/iorad.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
