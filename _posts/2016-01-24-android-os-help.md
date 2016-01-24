@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Get tips on how to use The Grid for Android
-datePublished: '2016-01-24T07:24:28.019Z'
-dateModified: '2016-01-24T07:24:26.295Z'
+datePublished: '2016-01-24T07:28:55.799Z'
+dateModified: '2016-01-24T07:28:52.748Z'
 title: Android OS Help
 author: []
 sourcePath: _posts/2016-01-24-android-os-help.md
@@ -32,7 +32,10 @@ Need help using The Grid on Android? We've got you covered!
 
 [Share Photos][3]
 
+[Embed Video][4]
+
 [0]: https://www.iorad.com/5253/17321/Install-and-Activate-The-Grid-for-Android
 [1]: https://www.iorad.com/5253/17334/Create-a-New-Site-on-Android
 [2]: https://www.iorad.com/5253/17461/Share-Content-from-the-Web
 [3]: https://www.iorad.com/5253/17463/Share-a-Photo-with-Android
+[4]: https://www.youtube.com/watch?v=urDgrl3ZMEw
