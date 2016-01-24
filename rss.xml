@@ -4,15 +4,8 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 07:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 07:29:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Android OS Help]]></title>
-            <description><![CDATA[<article><h1>Android OS Help</h1><p>Need help using The Grid on Android? We've got you covered!</p></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/android-os-help/index.html</link>
-            <guid isPermaLink="false">fad59ea6-5cfa-4041-ac5f-aeb7489770a3</guid>
-            <pubDate>Sun, 24 Jan 2016 07:22:46 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[How to create a new site on The Grid]]></title>
             <description><![CDATA[<article><h1>How to create a new site on The Grid</h1><p>Let's get started, shall we? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d294bdf0b4449fc630346d57995c94f3f652c9fe.jpg"></article>]]></description>
@@ -26,13 +19,6 @@
             <link>https://www.youtube.com/watch?v=q2XRBfSB_Bo</link>
             <guid isPermaLink="false">67403302-dbd3-448a-b4cf-25b19beac582</guid>
             <pubDate>Thu, 14 Jan 2016 08:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Embed video using android]]></title>
-            <description><![CDATA[<article><h1>Embed video using android</h1><p>How to embed video using Android OS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d9a2d8f48916d61bfa11aa73f3ff13b417f6ff7.jpg"></article>]]></description>
-            <link>https://youtu.be/urDgrl3ZMEw</link>
-            <guid isPermaLink="false">181ae84b-4d19-4198-b033-15b45b722ce8</guid>
-            <pubDate>Thu, 31 Dec 2015 10:31:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unpublish a Post Using Android]]></title>
