@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 07:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 07:38:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to create a new site on The Grid]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.youtube.com/watch?v=q2XRBfSB_Bo</link>
             <guid isPermaLink="false">67403302-dbd3-448a-b4cf-25b19beac582</guid>
             <pubDate>Thu, 14 Jan 2016 08:26:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iOS Help]]></title>
+            <description><![CDATA[<article><h1>iOS Help</h1><p>The Grid on the go! Here's how to make the most of The Grid on your iPhone.</p></article>]]></description>
+            <link>https://thegrid.ai/thegridsupport/ios-help/index.html</link>
+            <guid isPermaLink="false">8f97dcb5-a195-4000-8d60-690a47cec70c</guid>
+            <pubDate>Sun, 24 Jan 2016 07:37:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Embed From SoundCloud]]></title>
