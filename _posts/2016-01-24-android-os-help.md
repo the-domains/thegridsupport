@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Get tips on how to use The Grid for Android
-datePublished: '2016-01-24T07:22:46.777Z'
-dateModified: '2016-01-24T07:22:45.114Z'
+datePublished: '2016-01-24T07:24:27.929Z'
+dateModified: '2016-01-24T07:24:26.295Z'
 title: Android OS Help
 author: []
 sourcePath: _posts/2016-01-24-android-os-help.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: android-os-help/index.html
-_type: Article
+_type: WebPage
 
 ---
 Need help using The Grid on Android? We've got you covered!
