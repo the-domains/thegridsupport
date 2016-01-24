@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Get tips on how to use The Grid for Android
-datePublished: '2016-01-24T07:29:21.433Z'
+datePublished: '2016-01-24T07:29:21.442Z'
 dateModified: '2016-01-24T07:29:18.996Z'
 title: Android OS Help
 author: []
