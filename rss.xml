@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 05:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jan 2016 06:36:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to create a new site on The Grid]]></title>
@@ -28,8 +28,15 @@
             <pubDate>Thu, 31 Dec 2015 10:31:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Share Content from the Web]]></title>
+            <description><![CDATA[<article><h1>Share Content from the Web</h1><p>Check out this tutorial I made in 5 Minutes using iorad.com.</p><img src="http://www.iorad.com/capture/tutorials/5253/17461/cover.png?1453617240000"></article>]]></description>
+            <link>https://www.iorad.com/5253/17461/Share-Content-from-the-Web</link>
+            <guid isPermaLink="false">8239e8ce-c709-475f-8c4a-8b440023dfb2</guid>
+            <pubDate>Sun, 24 Jan 2016 06:35:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Install and Activate The Grid for Android]]></title>
-            <description><![CDATA[<article><h1>Install and Activate The Grid for Android</h1><p>Check out this tutorial I made in 3 Minutes using iorad.com.</p><img src="http://www.iorad.com/capture/tutorials/5253/17321/cover.png?1453527671000"></article>]]></description>
+            <description><![CDATA[<article><h1>Install and Activate The Grid for Android</h1><p>Check out this tutorial I made in 3 Minutes using iorad.com.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ae7b68e7c83a492801a427da2ba1ed0c53da944.png"></article>]]></description>
             <link>https://www.iorad.com/5253/17321/Install-and-Activate-The-Grid-for-Android#viewsteps</link>
             <guid isPermaLink="false">cdf0cab3-b796-49eb-8b36-5b8bc9a81d17</guid>
             <pubDate>Sat, 23 Jan 2016 05:45:08 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How to Publish a Post</h1><p>Ok, so you've created or shared some amazing content. Don't stop there, publish that thing! Select the post, click Publish, then choose the site upon which you are going to bestow your awesomness!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9a99c3884ac586a6491c0074e19c22418d5ed61.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=zekkZMEERj4</link>
             <guid isPermaLink="false">018c8587-04f0-4a2f-b95d-bd70de505146</guid>
-            <pubDate>Sat, 19 Dec 2015 07:29:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Share from Twitter]]></title>
-            <description><![CDATA[<article><h1>Share from Twitter</h1><p>How to share tweets to your site</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab5cb0bdf97d238f58494b8541b13d7b0d808144.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=TuRreWLZfwM</link>
-            <guid isPermaLink="false">3f8c44b9-6699-4ac2-badd-548a352eb036</guid>
             <pubDate>Sat, 19 Dec 2015 07:29:43 GMT</pubDate>
         </item>
     </channel>
