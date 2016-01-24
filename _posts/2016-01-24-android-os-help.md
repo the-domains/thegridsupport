@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-24T07:17:19.363Z'
-dateModified: '2016-01-24T07:17:06.776Z'
+datePublished: '2016-01-24T07:18:41.785Z'
+dateModified: '2016-01-24T07:18:39.033Z'
 title: Android OS Help
 author: []
+sourcePath: _posts/2016-01-24-android-os-help.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-24-android-os-help.md
-published: true
 url: android-os-help/index.html
 _type: WebPage
 
