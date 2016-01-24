@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-24T07:18:41.822Z'
-dateModified: '2016-01-24T07:18:39.033Z'
+description: Get tips on how to use The Grid for Android
+datePublished: '2016-01-24T07:20:06.512Z'
+dateModified: '2016-01-24T07:20:04.435Z'
 title: Android OS Help
 author: []
 sourcePath: _posts/2016-01-24-android-os-help.md
