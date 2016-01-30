@@ -16,7 +16,7 @@ keywords:
   - summer
   - stefan
 description: How to add a Brand Image and Change Color Settings
-datePublished: '2016-01-30T07:57:09.221Z'
+datePublished: '2016-01-30T07:57:09.238Z'
 dateModified: '2016-01-30T07:57:07.104Z'
 author:
   - name: Jordy Webb
