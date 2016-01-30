@@ -16,7 +16,7 @@ keywords:
   - panasonic
   - mobile
 description: ''
-datePublished: '2016-01-30T07:58:43.148Z'
+datePublished: '2016-01-30T07:58:43.214Z'
 dateModified: '2016-01-30T07:58:40.800Z'
 author:
   - name: Jordy Webb
