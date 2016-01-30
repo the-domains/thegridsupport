@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=O8zrmiiNbUE'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - picture
   - roth
 description: ''
-datePublished: '2015-12-19T07:29:44.056Z'
-dateModified: '2015-12-19T07:25:57.755Z'
+datePublished: '2016-01-30T07:56:24.345Z'
+dateModified: '2016-01-30T07:56:22.420Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -36,14 +35,15 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=O8zrmiiNbUE&feature=applinks'
     type: web
 title: Add an Image to a Post
+sourcePath: _posts/2015-12-01-add-an-image-to-a-post.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-12-01-add-an-image-to-a-post.md
-published: true
+url: add-an-image-to-a-post/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
