@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 07:59:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 08:01:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Share Instagram on iOS]]></title>
@@ -28,8 +28,15 @@
             <pubDate>Thu, 14 Jan 2016 08:26:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to Delete a Site]]></title>
+            <description><![CDATA[<article><h1>How to Delete a Site</h1><p>Don't like your site? That's ok, just can it! The good news is that you can have 7 sites active with your Founding Membership, so don't get too hasty! However, if you really want to delete one, here's how you do it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/50c6b9e99dce1a75aa189b4f16fc99c014146d0b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thegridsupport/how-to-delete-a-site/index.html</link>
+            <guid isPermaLink="false">3ef3fd6b-af1a-48cf-955b-d5ae39247270</guid>
+            <pubDate>Sat, 30 Jan 2016 07:57:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brand Image ]]></title>
-            <description><![CDATA[<article><h1>Brand Image </h1><p>You can define the spectrum of colors used on your site by adding a Brand Image. The colors from the image you upload, will be extracted and applied in the design of your site. You can then use the slider to select how "branded" you want your site to look.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9eb3be1e30b14572a65e1b291a53247ffb0b6802.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Brand Image </h1><p>You can define the spectrum of colors used on your site by adding a Brand Image. The colors from the image you upload, will be extracted and applied in the design of your site. You can then use the slider to select how "branded" you want your site to look.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02a0a7b9d2dd6b2cc104c3a3446b3693362ad069.jpg"></article>]]></description>
             <link>https://thegrid.ai/thegridsupport/brand-image/index.html</link>
             <guid isPermaLink="false">63a02f0e-7611-4b57-b2d3-1316475f5414</guid>
             <pubDate>Sat, 30 Jan 2016 07:57:09 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thegridsupport/embed-from-soundcloud/index.html</link>
             <guid isPermaLink="false">a19e1362-3836-450c-ab6c-eab6814877d9</guid>
             <pubDate>Sat, 30 Jan 2016 03:57:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to enable sharing on iOS]]></title>
-            <description><![CDATA[<article><h1>How to enable sharing on iOS</h1><p>The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid. After you enable sharing, you can also share content from your browser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f8cf75aa470723f6a2ed34b2bd34630794e87f38.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=549V_OvFzxQ</link>
-            <guid isPermaLink="false">8ece897e-758a-4ec6-a49a-fff0c92e7ef8</guid>
-            <pubDate>Sat, 19 Dec 2015 07:41:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
