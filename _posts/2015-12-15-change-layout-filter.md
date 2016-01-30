@@ -1,10 +1,9 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=90Ux7Y8p7as'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - duration
   - filter
@@ -17,8 +16,8 @@ keywords:
   - tdi
   - jetta
 description: Uploaded by Jordy Webb on 2015-12-15.
-datePublished: '2015-12-19T07:29:43.824Z'
-dateModified: '2015-12-19T07:25:56.848Z'
+datePublished: '2016-01-30T03:57:28.025Z'
+dateModified: '2016-01-30T03:57:26.899Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -44,6 +43,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: how-to-change-the-layout-filter/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
