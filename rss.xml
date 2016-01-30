@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 08:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 08:08:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Share Instagram on iOS]]></title>
@@ -28,11 +28,18 @@
             <pubDate>Thu, 14 Jan 2016 08:26:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How to enable sharing on iOS]]></title>
+            <description><![CDATA[<article><h1>How to enable sharing on iOS</h1><p>The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid. After you enable sharing, you can also share content from your browser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a827b45e6eb4ebb7dc98e433a094abe8bcdf8a78.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=549V_OvFzxQ</link>
+            <guid isPermaLink="false">8ece897e-758a-4ec6-a49a-fff0c92e7ef8</guid>
+            <pubDate>Sat, 30 Jan 2016 08:02:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Add a Custom Domain]]></title>
-            <description><![CDATA[<article><h1>How to Add a Custom Domain</h1><p>Have your own domain? You can use it! This video will show you how to point your domain to us. You'll be able to do this by creating an A record and adding 52.32.215.222 as the IP.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03574df6ed7f413028023d78cf0daaca5973d7e3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How to Add a Custom Domain</h1><p>Have your own domain? You can use it! This video will show you how to point your domain to us. You'll be able to do this by creating an A record and adding 52.32.215.222 as the IP.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/074dacfd42ddaaefb285f6350c9b5035c2e936d1.jpg"></article>]]></description>
             <link>https://thegrid.ai/thegridsupport/how-to-add-a-custom-domain/index.html</link>
             <guid isPermaLink="false">65f37491-fd73-4435-9b0b-6a4f65a68d89</guid>
-            <pubDate>Sat, 30 Jan 2016 08:02:12 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 08:02:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Share Content from the Web]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thegridsupport/move-up-move-down/index.html</link>
             <guid isPermaLink="false">c5e7802d-be45-4a3a-be70-e2e5190d2e9b</guid>
             <pubDate>Sat, 30 Jan 2016 07:56:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Add an Image to a Post]]></title>
-            <description><![CDATA[<article><h1>Add an Image to a Post</h1><p>You can add images to your post via the + icon on the post editor. Click the + and select them, then add them to your post. If you have more than one awesome image to show off, go ahead, you can share multiple ones at once.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a03f2ea91d52c7767e08679a86629d2a43e051f7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/add-an-image-to-a-post/index.html</link>
-            <guid isPermaLink="false">8f862277-7ff4-43cd-b481-0c19ce373fdf</guid>
-            <pubDate>Sat, 30 Jan 2016 07:56:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
