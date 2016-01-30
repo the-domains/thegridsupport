@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 07:57:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 07:58:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Share Instagram on iOS]]></title>
@@ -28,8 +28,15 @@
             <pubDate>Thu, 14 Jan 2016 08:26:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Add an Image to a Post]]></title>
+            <description><![CDATA[<article><h1>Add an Image to a Post</h1><p>You can add images to your post via the + icon on the post editor. Click the + and select them, then add them to your post. If you have more than one awesome image to show off, go ahead, you can share multiple ones at once.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc30cd34f4e10074a3e83630e93b776764a7285e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thegridsupport/add-an-image-to-a-post/index.html</link>
+            <guid isPermaLink="false">8f862277-7ff4-43cd-b481-0c19ce373fdf</guid>
+            <pubDate>Sat, 30 Jan 2016 07:56:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Share from Twitter]]></title>
-            <description><![CDATA[<article><h1>Share from Twitter</h1><p>How to share tweets to your site</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab5cb0bdf97d238f58494b8541b13d7b0d808144.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Share from Twitter</h1><p>How to share tweets to your site</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e3d2d1f40721f7fa86f0a0d864e188ebd88cea4.jpg"></article>]]></description>
             <link>https://thegrid.ai/thegridsupport/share-from-twitter/index.html</link>
             <guid isPermaLink="false">3f8c44b9-6699-4ac2-badd-548a352eb036</guid>
             <pubDate>Sat, 30 Jan 2016 07:56:08 GMT</pubDate>
