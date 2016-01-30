@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Get tips on how to use The Grid for Android
-datePublished: '2016-01-30T03:56:45.354Z'
-dateModified: '2016-01-30T03:56:38.690Z'
+datePublished: '2016-01-30T04:14:06.028Z'
+dateModified: '2016-01-30T04:14:03.385Z'
 title: Android OS Help
 author: []
 sourcePath: _posts/2016-01-24-android-os-help.md
@@ -38,6 +38,8 @@ Need help using The Grid on Android? We've got you covered!
 
 [Add a Brand Image][6]
 
+[Change the Layout][7]
+
 [0]: https://www.iorad.com/5253/17321/Install-and-Activate-The-Grid-for-Android
 [1]: https://www.iorad.com/5253/17334/Create-a-New-Site-on-Android
 [2]: https://www.iorad.com/5253/17461/Share-Content-from-the-Web
@@ -45,3 +47,4 @@ Need help using The Grid on Android? We've got you covered!
 [4]: https://www.youtube.com/watch?v=urDgrl3ZMEw
 [5]: https://www.youtube.com/watch?v=asL1B_d4-HY
 [6]: https://www.iorad.com/5253/18109/Add-a-Brand-Image-on-Android
+[7]: https://www.iorad.com/5253/18110/Change-Layout-on-Android
