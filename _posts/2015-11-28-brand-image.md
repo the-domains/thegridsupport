@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=e3aB2Ju0scY'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - summer
   - stefan
 description: How to add a Brand Image and Change Color Settings
-datePublished: '2015-12-19T07:29:44.223Z'
-dateModified: '2015-12-19T07:25:57.092Z'
+datePublished: '2016-01-30T07:57:09.189Z'
+dateModified: '2016-01-30T07:57:07.104Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -44,6 +43,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: brand-image/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
