@@ -1,10 +1,9 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=TuRreWLZfwM'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - duration
   - twitter
@@ -17,8 +16,8 @@ keywords:
   - instagram
   - dcp
 description: Uploaded by Jordy Webb on 2015-12-12.
-datePublished: '2015-12-19T07:29:43.923Z'
-dateModified: '2015-12-19T07:25:57.434Z'
+datePublished: '2016-01-30T07:56:08.563Z'
+dateModified: '2016-01-30T07:56:07.081Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -44,6 +43,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: share-from-twitter/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
