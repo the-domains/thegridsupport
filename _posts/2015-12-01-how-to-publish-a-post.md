@@ -1,10 +1,9 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=zekkZMEERj4'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - duration
   - wordpress
@@ -17,8 +16,8 @@ keywords:
   - linkedin
   - blogger
 description: ''
-datePublished: '2015-12-19T07:29:43.926Z'
-dateModified: '2015-12-19T07:25:57.092Z'
+datePublished: '2016-01-30T07:58:05.578Z'
+dateModified: '2016-01-30T07:58:04.106Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -36,14 +35,15 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=zekkZMEERj4&feature=applinks'
     type: web
 title: How to Publish a Post
+sourcePath: _posts/2015-12-01-how-to-publish-a-post.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-12-01-how-to-publish-a-post.md
-published: true
+url: how-to-publish-a-post/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
