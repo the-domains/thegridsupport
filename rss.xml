@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 08:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 08:03:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Share Instagram on iOS]]></title>
@@ -28,8 +28,15 @@
             <pubDate>Thu, 14 Jan 2016 08:26:46 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Share Content from the Web]]></title>
+            <description><![CDATA[<article><h1>Share Content from the Web</h1><p>With the Chrome extension installed, you can easily share content from anywhere on the web to The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acdb865c7748b3343096f520b529697756556378.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thegridsupport/share-content-from-the-web/index.html</link>
+            <guid isPermaLink="false">d6f41f2e-4eca-4d85-b85e-2763ae536e4a</guid>
+            <pubDate>Sat, 30 Jan 2016 07:58:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Publish a Post]]></title>
-            <description><![CDATA[<article><h1>How to Publish a Post</h1><p>Ok, so you've created or shared some amazing content. Don't stop there, publish that thing! Select the post, click Publish, then choose the site upon which you are going to bestow your awesomness!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9a99c3884ac586a6491c0074e19c22418d5ed61.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How to Publish a Post</h1><p>Ok, so you've created or shared some amazing content. Don't stop there, publish that thing! Select the post, click Publish, then choose the site upon which you are going to bestow your awesomness!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e259ac2d00a62118c819e84bd87f303fc3731fe.jpg"></article>]]></description>
             <link>https://thegrid.ai/thegridsupport/how-to-publish-a-post/index.html</link>
             <guid isPermaLink="false">018c8587-04f0-4a2f-b95d-bd70de505146</guid>
             <pubDate>Sat, 30 Jan 2016 07:58:05 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thegridsupport/share-from-twitter/index.html</link>
             <guid isPermaLink="false">3f8c44b9-6699-4ac2-badd-548a352eb036</guid>
             <pubDate>Sat, 30 Jan 2016 07:56:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Change the Layout Filter]]></title>
-            <description><![CDATA[<article><h1>How to Change the Layout Filter</h1><p>We have a bunch of rad layout filters to chose from. Just head to the layout settings and pick the one you want on the slider.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a510ef62231ec897ba8c2f816768ad0672faf1b8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/how-to-change-the-layout-filter/index.html</link>
-            <guid isPermaLink="false">83adc2ea-b276-4529-8a97-7f9d0c1514ef</guid>
-            <pubDate>Sat, 30 Jan 2016 07:57:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
