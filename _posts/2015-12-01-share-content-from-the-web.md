@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=_WU212tZLOI'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - panasonic
   - mobile
 description: ''
-datePublished: '2015-12-19T07:27:18.851Z'
-dateModified: '2015-12-19T07:25:57.125Z'
+datePublished: '2016-01-30T07:58:43.148Z'
+dateModified: '2016-01-30T07:58:40.800Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -36,14 +35,15 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=_WU212tZLOI&feature=applinks'
     type: web
 title: Share Content from the Web
+sourcePath: _posts/2015-12-01-share-content-from-the-web.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-12-01-share-content-from-the-web.md
-published: true
+url: share-content-from-the-web/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
