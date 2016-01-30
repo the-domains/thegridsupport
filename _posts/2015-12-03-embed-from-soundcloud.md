@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=WmhHFuHorxA&feature=youtu.be'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - code
   - upload
 description: ''
-datePublished: '2015-12-26T03:12:27.471Z'
-dateModified: '2015-12-26T03:12:22.953Z'
+datePublished: '2016-01-30T03:57:47.930Z'
+dateModified: '2016-01-30T03:57:46.088Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -44,6 +43,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: embed-from-soundcloud/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
