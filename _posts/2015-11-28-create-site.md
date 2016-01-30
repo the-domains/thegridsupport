@@ -16,7 +16,7 @@ keywords:
   - '2015'
   - tyler
 description: ''
-datePublished: '2016-01-30T07:59:10.490Z'
+datePublished: '2016-01-30T07:59:10.495Z'
 dateModified: '2016-01-30T07:59:08.088Z'
 author:
   - name: Jordy Webb
