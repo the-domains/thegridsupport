@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=549V_OvFzxQ'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - duration
   - enable
@@ -17,8 +17,8 @@ keywords:
   - usb
   - hotspot
 description: ''
-datePublished: '2015-12-19T07:41:05.204Z'
-dateModified: '2015-12-19T07:41:01.548Z'
+datePublished: '2016-01-30T08:02:24.592Z'
+dateModified: '2016-01-30T08:02:22.043Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
