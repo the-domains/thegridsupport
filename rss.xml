@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support Blog]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 05:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 01:02:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Share Instagram on iOS]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/thegridsupport/share-instagram-on-ios/index.html</link>
             <guid isPermaLink="false">fa742be7-308a-455e-9dc1-896f21296f91</guid>
             <pubDate>Sat, 30 Jan 2016 03:57:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Welcome, Beta Users! Here's quick run through to get you up and running on The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4caaea025493fc6d3d970ac12f9930194ef24fa.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=u6zGCjfF1dE&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">d86650a7-392a-4b78-9c78-1e704bcc7a64</guid>
+            <pubDate>Sun, 14 Feb 2016 01:01:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to create a new site on The Grid]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[How to create a navigation link]]></title>
-            <description><![CDATA[<article><h1>How to create a navigation link</h1><p>You can place a post that you would like to highlight in the header of your page as a navigation link. Here's the scoop:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/899d569c5b317dda4f31f26fd6e73bdcaa85d915.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How to create a navigation link</h1><p>You can place a post that you would like to highlight in the header of your page as a navigation link. Here's the scoop:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d78a1253407aae6d691f3ea79c5c1f3f6b79801.jpg"></article>]]></description>
             <link>https://thegrid.ai/thegridsupport/how-to-create-a-navigation-link/index.html</link>
             <guid isPermaLink="false">67403302-dbd3-448a-b4cf-25b19beac582</guid>
             <pubDate>Tue, 02 Feb 2016 05:31:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thegridsupport/brand-image/index.html</link>
             <guid isPermaLink="false">63a02f0e-7611-4b57-b2d3-1316475f5414</guid>
             <pubDate>Sat, 30 Jan 2016 07:57:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Move Up / Move Down]]></title>
-            <description><![CDATA[<article><h1>Move Up / Move Down</h1><p>The Move Up and Move Down buttons allow you to place the image above or below text within your blog post. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d29fa44e7914a1d28dd404f0ad20fb74201c61d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/move-up-move-down/index.html</link>
-            <guid isPermaLink="false">c5e7802d-be45-4a3a-be70-e2e5190d2e9b</guid>
-            <pubDate>Sat, 30 Jan 2016 07:56:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
