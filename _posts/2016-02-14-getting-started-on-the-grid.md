@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - grid
   - duration
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=u6zGCjfF1dE&feature=youtu.be'
 title: Getting Started on The Grid
-datePublished: '2016-02-14T01:01:56.138Z'
-dateModified: '2016-02-14T01:00:42.046Z'
+datePublished: '2016-02-14T01:02:06.418Z'
+dateModified: '2016-02-14T01:02:02.090Z'
 sourcePath: _posts/2016-02-14-getting-started-on-the-grid.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
