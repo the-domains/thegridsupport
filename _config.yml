@@ -1,20 +1,4 @@
-name: TheGridSupport
-favicon: null
-layout_spectrum: 0.5129
-typography_spectrum: 0.51264
-title: The Grid Support Blog
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#030405'
@@ -22,8 +6,13 @@ color:
     - '#b99d45'
     - '#6f5f2b'
     - '#faf9fb'
-  brandStrength: 0.75
-  lightness: 0.1875
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  brandStrength: 0.662007
+  lightness: 0.494243
+  rhythmicContrast: 0.604441
+  saturation: 0.675987
+cta: {}
+layout_spectrum: 0.5129
+name: TheGridSupport
+opengraph: {}
 purpose: []
+typography_spectrum: 0.069901
