@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-16T06:55:40.984Z'
-dateModified: '2016-02-16T06:55:38.202Z'
+datePublished: '2016-02-16T06:58:11.991Z'
+dateModified: '2016-02-16T06:58:08.047Z'
 title: Set Up a Contact Form CTA
 author: []
 sourcePath: _posts/2016-02-16-set-up-a-contact-form-cta.md
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 Need to get sign ups for your mailing list? You can get them using The Grid! You'll need a 3rd party service like MailChimp to collect the sign ups. Click the image to launch a tutorial on how to set it up
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c6ace3d-c43d-4ba7-93d4-b3fecd51653e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/de9eb09a74c4c8b3b06f11b09fcc7906e20522c2.jpg)
