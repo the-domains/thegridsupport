@@ -16,8 +16,8 @@ keywords:
   - '2015'
   - tyler
 description: ''
-datePublished: '2016-01-30T08:02:44.550Z'
-dateModified: '2016-01-30T08:02:41.446Z'
+datePublished: '2016-02-16T18:37:03.036Z'
+dateModified: '2016-02-16T18:37:00.401Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -48,6 +48,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05a15ac4-ca1a-4fe4-9da9-af485e5393f2.png)
+
 # How to create a new site on The Grid
 
 Let's get started, shall we? 
