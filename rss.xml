@@ -4,11 +4,11 @@
         <description><![CDATA[TheGridSupport]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 22:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 06:11:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Welcome, Beta Users! Here's quick run through to get you up and running on The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4caaea025493fc6d3d970ac12f9930194ef24fa.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Welcome, Beta Users! Here's quick run through to get you up and running on The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98941e532a080ea0381e83bd7ff9e3661cb608bd.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=u6zGCjfF1dE&amp;feature=youtu.be</link>
             <guid isPermaLink="false">d86650a7-392a-4b78-9c78-1e704bcc7a64</guid>
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/thegridsupport/share-instagram-on-ios/index.html</link>
             <guid isPermaLink="false">fa742be7-308a-455e-9dc1-896f21296f91</guid>
             <pubDate>Sat, 30 Jan 2016 03:57:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a641327632168559cfea2e7f75c97a58c8104399.jpg" alt="" title="">]]></description>
+            <link>http://blogs-images.forbes.com/anthonykosner/files/2014/10/the_grid-designs_tiled_logo.jpg</link>
+            <guid isPermaLink="false">2b95e40a-0e7c-46f7-a0a5-127c0064810a</guid>
+            <pubDate>Tue, 16 Feb 2016 06:09:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to create a new site on The Grid]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thegridsupport/how-to-delete-a-site/index.html</link>
             <guid isPermaLink="false">3ef3fd6b-af1a-48cf-955b-d5ae39247270</guid>
             <pubDate>Sat, 30 Jan 2016 07:57:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brand Image ]]></title>
-            <description><![CDATA[<article><h1>Brand Image </h1><p>You can define the spectrum of colors used on your site by adding a Brand Image. The colors from the image you upload, will be extracted and applied in the design of your site. You can then use the slider to select how "branded" you want your site to look.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/02a0a7b9d2dd6b2cc104c3a3446b3693362ad069.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/brand-image/index.html</link>
-            <guid isPermaLink="false">63a02f0e-7611-4b57-b2d3-1316475f5414</guid>
-            <pubDate>Sat, 30 Jan 2016 07:57:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
