@@ -4,8 +4,15 @@
         <description><![CDATA[TheGridSupport]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 06:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 06:54:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How do I put an image in the header]]></title>
+            <description><![CDATA[<article><h1>How do I put an image in the header</h1><p>We plan on this in the future, but while you wait here is a workaround. You'll want to Feature a post and set it to Homepage. Click the image for a quick tutorial on how to do this</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d0f95538d0e34532175c74368f42d0448921e738.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thegridsupport/how-do-i-put-an-image-in-the-header/index.html</link>
+            <guid isPermaLink="false">2b95e40a-0e7c-46f7-a0a5-127c0064810a</guid>
+            <pubDate>Tue, 16 Feb 2016 06:19:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Welcome, Beta Users! Here's quick run through to get you up and running on The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98941e532a080ea0381e83bd7ff9e3661cb608bd.jpg"></article>]]></description>
@@ -21,11 +28,11 @@
             <pubDate>Sat, 30 Jan 2016 03:57:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[How do I put an image in the header]]></title>
-            <description><![CDATA[<article><h1>How do I put an image in the header</h1><p>We plan on this in the future, but while you wait here is a workaround. You'll want to Feature a post and set it to Homepage. Click the image for a quick tutorial on how to do this</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3f20b102ccad3fa14245482b4f6fc4069a2dd30.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/how-do-i-put-an-image-in-the-header/index.html</link>
-            <guid isPermaLink="false">2b95e40a-0e7c-46f7-a0a5-127c0064810a</guid>
-            <pubDate>Tue, 16 Feb 2016 06:23:20 GMT</pubDate>
+            <title><![CDATA[Set Up a Contact Form CTA]]></title>
+            <description><![CDATA[<article><h1>Set Up a Contact Form CTA</h1><p>Need to get sign ups for your mailing list? You can get them using The Grid! You'll need a 3rd party service like MailChimp to collect the sign ups. Click the image to launch a tutorial on how to set it up:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/046089bfa3f47da4cf10ea3dba0d5d8ecf054ad2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thegridsupport/set-up-a-contact-form-cta/index.html</link>
+            <guid isPermaLink="false">33f76c6f-e166-4d79-87ac-5cd3876776be</guid>
+            <pubDate>Tue, 16 Feb 2016 06:53:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to create a new site on The Grid]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thegridsupport/how-to-publish-a-post/index.html</link>
             <guid isPermaLink="false">018c8587-04f0-4a2f-b95d-bd70de505146</guid>
             <pubDate>Sat, 30 Jan 2016 07:58:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Delete a Site]]></title>
-            <description><![CDATA[<article><h1>How to Delete a Site</h1><p>Don't like your site? That's ok, just can it! The good news is that you can have 7 sites active with your Founding Membership, so don't get too hasty! However, if you really want to delete one, here's how you do it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a937e283a7b78a0a00b2a1237b95e5f4f0bc3c41.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/how-to-delete-a-site/index.html</link>
-            <guid isPermaLink="false">3ef3fd6b-af1a-48cf-955b-d5ae39247270</guid>
-            <pubDate>Sat, 30 Jan 2016 07:57:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
