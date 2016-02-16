@@ -4,15 +4,8 @@
         <description><![CDATA[TheGridSupport]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 06:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 06:23:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[How do I put an image in the header]]></title>
-            <description><![CDATA[<article><h1>How do I put an image in the header</h1><p>We plan on this in the future, but while you wait here is a workaround. You'll want to Feature a post and set it to Homepage. Click the image for a quick tutorial on how to do this</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3f20b102ccad3fa14245482b4f6fc4069a2dd30.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/how-do-i-put-an-image-in-the-header/index.html</link>
-            <guid isPermaLink="false">2b95e40a-0e7c-46f7-a0a5-127c0064810a</guid>
-            <pubDate>Tue, 16 Feb 2016 06:19:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Welcome, Beta Users! Here's quick run through to get you up and running on The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/98941e532a080ea0381e83bd7ff9e3661cb608bd.jpg"></article>]]></description>
@@ -26,6 +19,13 @@
             <link>https://thegrid.ai/thegridsupport/share-instagram-on-ios/index.html</link>
             <guid isPermaLink="false">fa742be7-308a-455e-9dc1-896f21296f91</guid>
             <pubDate>Sat, 30 Jan 2016 03:57:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I put an image in the header]]></title>
+            <description><![CDATA[<article><h1>How do I put an image in the header</h1><p>We plan on this in the future, but while you wait here is a workaround. You'll want to Feature a post and set it to Homepage. Click the image for a quick tutorial on how to do this</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3f20b102ccad3fa14245482b4f6fc4069a2dd30.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thegridsupport/how-do-i-put-an-image-in-the-header/index.html</link>
+            <guid isPermaLink="false">2b95e40a-0e7c-46f7-a0a5-127c0064810a</guid>
+            <pubDate>Tue, 16 Feb 2016 06:23:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to create a new site on The Grid]]></title>
