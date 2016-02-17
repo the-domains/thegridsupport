@@ -16,8 +16,8 @@ keywords:
   - photos
   - arad
 description: Uploaded by Jordy Webb on 2015-12-13.
-datePublished: '2016-02-16T17:52:45.728Z'
-dateModified: '2016-02-16T17:52:40.573Z'
+datePublished: '2016-02-17T23:10:27.418Z'
+dateModified: '2016-02-17T22:58:44.725Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -48,6 +48,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17a6b07c-c71b-46df-8f82-4e02fde948ad.jpg)
+
 Here's how you share from Instagram on iOS. You'll need to copy the share link and share from your mobile browser.
 
 Sharing from pages that require login, won't work - The Grid will only grab the content from the landing page/login page. However, if it's public without a login, it will be just fine.
