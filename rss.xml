@@ -4,8 +4,15 @@
         <description><![CDATA[TheGridSupport]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 23:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 23:20:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Share Instagram on iOS]]></title>
+            <description><![CDATA[<article><h1>Share Instagram on iOS</h1><p>Sharing from pages that require login, won’t work - The Grid will only grab the content from the landing page/login page. However, if it's public without a login, it will be just fine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93fcffb2c15ec5cf89b560b03435e0e198bc8e6e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thegridsupport/share-instagram-on-ios/index.html</link>
+            <guid isPermaLink="false">fa742be7-308a-455e-9dc1-896f21296f91</guid>
+            <pubDate>Wed, 17 Feb 2016 23:18:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to create a navigation link]]></title>
             <description><![CDATA[<article><h1>How to create a navigation link</h1><p>You can place a post that you would like to highlight in the header of your page as a navigation link. Here's the scoop:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ae0fd95799a62755a7fa43825c8568c2c145163.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://www.youtube.com/watch?v=u6zGCjfF1dE&amp;feature=youtu.be</link>
             <guid isPermaLink="false">d86650a7-392a-4b78-9c78-1e704bcc7a64</guid>
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Share Instagram on iOS]]></title>
-            <description><![CDATA[<article><h1>Share Instagram on iOS</h1><p>Sharing from pages that require login, won’t work - The Grid will only grab the content from the landing page/login page. However, if it's public without a login, it will be just fine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93fcffb2c15ec5cf89b560b03435e0e198bc8e6e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/share-instagram-on-ios/index.html</link>
-            <guid isPermaLink="false">fa742be7-308a-455e-9dc1-896f21296f91</guid>
-            <pubDate>Wed, 17 Feb 2016 23:10:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to create a new site on The Grid]]></title>
