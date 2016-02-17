@@ -16,8 +16,8 @@ keywords:
   - bss
   - gmbh
 description: ''
-datePublished: '2016-02-02T05:31:02.970Z'
-dateModified: '2016-02-02T05:30:59.359Z'
+datePublished: '2016-02-17T19:48:13.957Z'
+dateModified: '2016-02-17T19:47:29.738Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -49,6 +49,7 @@ _context: 'http://schema.org'
 
 ---
 # How to create a navigation link
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcd2770b-3b9a-43d2-b7b3-16ab2ab7b7bd.jpg)
 
 You can place a post that you would like to highlight in the header of your page as a navigation link. Here's the scoop:
 
