@@ -4,7 +4,7 @@
         <description><![CDATA[TheGridSupport]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 04:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 04:46:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Share Instagram on iOS]]></title>
@@ -42,8 +42,15 @@
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Share from Twitter]]></title>
+            <description><![CDATA[<article><h1>Share from Twitter</h1><p>How to share tweets to your site</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1a5309f-be3c-4fb7-ade8-eaa13fc63850.jpg"></article>]]></description>
+            <link>https://thegrid.ai/thegridsupport/share-from-twitter/index.html</link>
+            <guid isPermaLink="false">3f8c44b9-6699-4ac2-badd-548a352eb036</guid>
+            <pubDate>Thu, 18 Feb 2016 04:44:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Delete a Site]]></title>
-            <description><![CDATA[<article><h1>How to Delete a Site</h1><p>Don't like your site? That's ok, just can it! The good news is that you can have 7 sites active with your Founding Membership, so don't get too hasty! However, if you really want to delete one, here's how you do it.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65eff920-6572-465f-8023-0e7fae9382dc.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How to Delete a Site</h1><p>Don't like your site? That's ok, just can it! The good news is that you can have 7 sites active with your Founding Membership, so don't get too hasty! However, if you really want to delete one, here's how you do it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83c8bca0c03db5f898a75bb8dc37dd0703ec4c34.jpg"></article>]]></description>
             <link>https://thegrid.ai/thegridsupport/how-to-delete-a-site/index.html</link>
             <guid isPermaLink="false">3ef3fd6b-af1a-48cf-955b-d5ae39247270</guid>
             <pubDate>Thu, 18 Feb 2016 04:33:30 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thegridsupport/how-to-add-a-custom-domain/index.html</link>
             <guid isPermaLink="false">65f37491-fd73-4435-9b0b-6a4f65a68d89</guid>
             <pubDate>Sat, 30 Jan 2016 08:02:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Share Content from the Web]]></title>
-            <description><![CDATA[<article><h1>Share Content from the Web</h1><p>With the Chrome extension installed, you can easily share content from anywhere on the web to The Grid.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba4f0188ab4a7b4397cf35b39e3f6dfeaa70ebb0.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/share-content-from-the-web/index.html</link>
-            <guid isPermaLink="false">d6f41f2e-4eca-4d85-b85e-2763ae536e4a</guid>
-            <pubDate>Sat, 30 Jan 2016 07:58:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
