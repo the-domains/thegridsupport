@@ -16,8 +16,8 @@ keywords:
   - tdi
   - jetta
 description: Uploaded by Jordy Webb on 2015-12-15.
-datePublished: '2016-01-30T07:57:50.588Z'
-dateModified: '2016-01-30T07:57:48.151Z'
+datePublished: '2016-02-18T17:39:01.399Z'
+dateModified: '2016-02-18T17:38:49.104Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -48,6 +48,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c92bcc3-0d2e-416b-9940-af1554522185.jpg)
+
 We have a bunch of rad layout filters to chose from. Just head to the layout settings and pick the one you want on the slider.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F90Ux7Y8p7as%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D90Ux7Y8p7as&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F90Ux7Y8p7as%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
