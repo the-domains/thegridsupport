@@ -16,8 +16,8 @@ keywords:
   - website
   - cpanel
 description: Uploaded by Jordy Webb on 2015-11-28.
-datePublished: '2016-01-30T07:57:33.250Z'
-dateModified: '2016-01-30T07:57:30.964Z'
+datePublished: '2016-02-18T04:33:30.424Z'
+dateModified: '2016-02-18T04:33:17.420Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -48,6 +48,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65eff920-6572-465f-8023-0e7fae9382dc.jpg)
+
 # How to Delete a Site
 
 Don't like your site? That's ok, just can it! The good news is that you can have 7 sites active with your Founding Membership, so don't get too hasty! However, if you really want to delete one, here's how you do it.
