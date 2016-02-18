@@ -16,8 +16,8 @@ keywords:
   - instagram
   - dcp
 description: Uploaded by Jordy Webb on 2015-12-12.
-datePublished: '2016-01-30T07:56:08.605Z'
-dateModified: '2016-01-30T07:56:07.081Z'
+datePublished: '2016-02-18T04:44:25.086Z'
+dateModified: '2016-02-18T04:43:59.678Z'
 author:
   - name: Jordy Webb
     url: 'https://www.youtube.com/channel/UCLdqQ6iw6Aycjz1JOPPIAbw'
@@ -48,6 +48,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1a5309f-be3c-4fb7-ade8-eaa13fc63850.jpg)
+
 How to share tweets to your site
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FTuRreWLZfwM%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTuRreWLZfwM&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FTuRreWLZfwM%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
