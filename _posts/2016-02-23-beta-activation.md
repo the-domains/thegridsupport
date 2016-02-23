@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://thegrid.wistia.com/medias/66n2r9at4t'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-23T22:49:31.117Z'
-dateModified: '2016-02-23T22:49:23.023Z'
+datePublished: '2016-02-23T22:49:44.609Z'
+dateModified: '2016-02-23T22:49:37.441Z'
 author: []
 related: []
 app_links: []
