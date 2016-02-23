@@ -4,8 +4,15 @@
         <description><![CDATA[TheGridSupport]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 22:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 22:50:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beta Activation]]></title>
+            <description><![CDATA[<article><h1>Beta Activation</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e89de52631ed01427512b528d287bfb72527df13.jpg"></article>]]></description>
+            <link>https://thegrid.wistia.com/medias/66n2r9at4t</link>
+            <guid isPermaLink="false">8ab52c93-d5d8-4570-b252-bdb84daa77cb</guid>
+            <pubDate>Tue, 23 Feb 2016 22:49:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Share Instagram on iOS]]></title>
             <description><![CDATA[<article><h1>Share Instagram on iOS</h1><p>Sharing from pages that require login, won’t work - The Grid will only grab the content from the landing page/login page. However, if it's public without a login, it will be just fine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b7c46b558b224c81b33e17319c34ad4e10621f6.jpg"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://www.youtube.com/watch?v=u6zGCjfF1dE&amp;feature=youtu.be</link>
             <guid isPermaLink="false">d86650a7-392a-4b78-9c78-1e704bcc7a64</guid>
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beta Activation]]></title>
-            <description><![CDATA[<article><h1>Beta Activation</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e89de52631ed01427512b528d287bfb72527df13.jpg"></article>]]></description>
-            <link>https://thegrid.wistia.com/medias/66n2r9at4t</link>
-            <guid isPermaLink="false">8ab52c93-d5d8-4570-b252-bdb84daa77cb</guid>
-            <pubDate>Tue, 23 Feb 2016 22:49:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Change the Layout Filter]]></title>
