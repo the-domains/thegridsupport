@@ -7,20 +7,20 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-23T22:53:03.908Z'
-dateModified: '2016-02-23T22:50:53.232Z'
+datePublished: '2016-02-23T23:02:48.864Z'
+dateModified: '2016-02-23T22:56:07.593Z'
 author: []
 related: []
 app_links: []
 title: Beta Activation
+sourcePath: _posts/2016-02-23-beta-activation.md
+published: true
 authors: []
 publisher:
   name: 'Wistia, Inc.'
   domain: thegrid.wistia.com
   url: 'http://wistia.com'
   favicon: 'https://thegrid.wistia.com/favicon.ico'
-sourcePath: _posts/2016-02-23-beta-activation.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
