@@ -4,7 +4,7 @@
         <description><![CDATA[TheGridSupport]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 05:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 22:50:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Share Instagram on iOS]]></title>
@@ -42,6 +42,13 @@
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Beta Activation]]></title>
+            <description><![CDATA[<article><h1>Beta Activation</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e89de52631ed01427512b528d287bfb72527df13.jpg"></article>]]></description>
+            <link>https://thegrid.wistia.com/medias/66n2r9at4t</link>
+            <guid isPermaLink="false">8ab52c93-d5d8-4570-b252-bdb84daa77cb</guid>
+            <pubDate>Tue, 23 Feb 2016 22:49:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Change the Layout Filter]]></title>
             <description><![CDATA[<article><h1>How to Change the Layout Filter</h1><p>We have a bunch of rad layout filters to chose from. Just head to the layout settings and pick the one you want on the slider.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c4f44da7a530a393875c625d7d26504e7c50b6d.jpg"></article>]]></description>
             <link>https://thegrid.ai/thegridsupport/how-to-change-the-layout-filter/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thegridsupport/how-to-create-a-new-site-on-the-grid/index.html</link>
             <guid isPermaLink="false">885abb19-e2ad-4e87-9267-aa2f222b45be</guid>
             <pubDate>Tue, 16 Feb 2016 18:37:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to enable sharing on iOS]]></title>
-            <description><![CDATA[<article><h1>How to enable sharing on iOS</h1><p>The Grid isn't an option for sharing by default. This video will show you how to enable it, and then share a photo to The Grid. After you enable sharing, you can also share content from your browser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3d73ec010d3238ac32ce5a1eb897011a5f26378.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=549V_OvFzxQ</link>
-            <guid isPermaLink="false">8ece897e-758a-4ec6-a49a-fff0c92e7ef8</guid>
-            <pubDate>Sat, 30 Jan 2016 08:02:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
