@@ -4,7 +4,7 @@
         <description><![CDATA[TheGridSupport]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 04:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 05:05:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Email Us]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47a71a76-e58f-4d80-b9bd-185b64804330.jpg">]]></description>
+            <link>https://thegrid.ai/thegridsupport/b3af4b43-e125-4cc2-ab96-e5b46528b187/index.html</link>
+            <guid isPermaLink="false">b3af4b43-e125-4cc2-ab96-e5b46528b187</guid>
+            <pubDate>Wed, 02 Mar 2016 05:04:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How to Change the Layout Filter]]></title>
             <description><![CDATA[<article><h1>How to Change the Layout Filter</h1><p>We have a bunch of rad layout filters to chose from. Just head to the layout settings and pick the one you want on the slider.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c4f44da7a530a393875c625d7d26504e7c50b6d.jpg"></article>]]></description>
             <link>https://thegrid.ai/thegridsupport/how-to-change-the-layout-filter/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thegridsupport/how-to-delete-a-site/index.html</link>
             <guid isPermaLink="false">3ef3fd6b-af1a-48cf-955b-d5ae39247270</guid>
             <pubDate>Thu, 18 Feb 2016 04:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to create a new site on The Grid]]></title>
-            <description><![CDATA[<article><h1>How to create a new site on The Grid</h1><p>Let's get started, shall we? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/009741f5b01d418f2b2d483aab7c24548534cb63.png"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/how-to-create-a-new-site-on-the-grid/index.html</link>
-            <guid isPermaLink="false">885abb19-e2ad-4e87-9267-aa2f222b45be</guid>
-            <pubDate>Tue, 16 Feb 2016 18:37:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
