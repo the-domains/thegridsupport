@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Get tips on how to use The Grid for Android
-datePublished: '2016-01-30T05:36:43.980Z'
-dateModified: '2016-01-30T05:36:41.279Z'
+description: "Need help using\_The Grid on Android? We've got you covered!"
+datePublished: '2016-04-06T23:55:42.429Z'
+dateModified: '2016-04-06T23:55:29.972Z'
 title: Android OS Help
 author: []
 sourcePath: _posts/2016-01-24-android-os-help.md
@@ -22,6 +22,8 @@ url: android-os-help/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea80359d-df0c-41c1-b659-9017b217b071.jpg)
+
 Need help using The Grid on Android? We've got you covered!
 
 [Install the App][0]
