@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support]]></description>
         <link>https://thegrid.ai/thegridsupport/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 04:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 04:14:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thegridsupport/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get Started in Beta]]></title>
@@ -56,11 +56,18 @@
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[iOS Help]]></title>
+            <description><![CDATA[<article><h1>iOS Help</h1><p>The Grid on the go! Here's how to make the most of The Grid on your iPhone.</p></article>]]></description>
+            <link>https://thegrid.ai/thegridsupport/ios-help/index.html</link>
+            <guid isPermaLink="false">8f97dcb5-a195-4000-8d60-690a47cec70c</guid>
+            <pubDate>Thu, 07 Apr 2016 04:14:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Android OS Help]]></title>
             <description><![CDATA[<article><h1>Android OS Help</h1><p>Need help using The Grid on Android? We've got you covered!</p></article>]]></description>
             <link>https://thegrid.ai/thegridsupport/android-os-help/index.html</link>
             <guid isPermaLink="false">fad59ea6-5cfa-4041-ac5f-aeb7489770a3</guid>
-            <pubDate>Thu, 07 Apr 2016 04:06:22 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 04:14:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Change the Layout Filter]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/thegridsupport/how-to-change-the-layout-filter/index.html</link>
             <guid isPermaLink="false">83adc2ea-b276-4529-8a97-7f9d0c1514ef</guid>
             <pubDate>Thu, 18 Feb 2016 17:39:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Share from Twitter]]></title>
-            <description><![CDATA[<article><h1>Share from Twitter</h1><p>How to share tweets to your site</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9976d6e9b55d583078afd89d4d84da310d0f3258.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/share-from-twitter/index.html</link>
-            <guid isPermaLink="false">3f8c44b9-6699-4ac2-badd-548a352eb036</guid>
-            <pubDate>Sat, 20 Feb 2016 05:23:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
