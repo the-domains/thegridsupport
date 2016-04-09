@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "Wanna sell some stuff on\_The Grid? Of course you do! Tons of our\_Founding Members are looking to get their product out there. While we don't have a native ecommerce feature yet, you can still set up shop. This video will show you how. All you'll need is something like Etsy/Shoptify, something to sell, and\_The Grid. Take a look!"
-datePublished: '2016-04-09T02:29:34.217Z'
-dateModified: '2016-04-09T02:29:24.686Z'
+datePublished: '2016-04-09T02:31:18.243Z'
+dateModified: '2016-04-09T02:29:40.117Z'
 author: []
 related: []
 app_links: []
