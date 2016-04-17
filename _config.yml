@@ -27,3 +27,10 @@ color:
   saturation: 0
   rhythmicContrast: 1
 purpose: []
+navigation:
+  - url: 'https://thegrid.io/'
+    name: Homepage
+  - url: 'https://blog.thegrid.io/'
+    name: Blog
+  - url: 'http://status.thegrid.io/'
+    name: Service Status
