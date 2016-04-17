@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Support]]></description>
         <link>http://support.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 01:56:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 01:59:40 GMT</lastBuildDate>
         <atom:link href="http://support.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Email Us]]></title>
+            <description><![CDATA[<article><h1>Email Us</h1><p>Need a hand? We've got you. Click the image below to check out our Help Docs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5773ccc43938197840120ff66aca1585febb7d88.jpg"></article>]]></description>
+            <link>http://www.123contactform.com/form-1831865/Contact-Form</link>
+            <guid isPermaLink="false">c74d3005-e5bc-470e-aa07-81904064ca12</guid>
+            <pubDate>Sun, 17 Apr 2016 01:59:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Create a Call to Action to Sell Your Products]]></title>
             <description><![CDATA[<article><h1>Create a Call to Action to Sell Your Products</h1><p>Wanna sell some stuff on The Grid? Of course you do! Tons of our Founding Members are looking to get their product out there. While we don't have a native ecommerce feature yet, you can still set up shop. This video will show you how. All you'll need is something like Etsy/Shoptify, something to sell, and The Grid. Take a look!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71207f5a0a6975cfac95a4c36a4e3e4544571e83.jpg"></article>]]></description>
@@ -54,13 +61,6 @@
             <link>https://www.youtube.com/watch?v=u6zGCjfF1dE&amp;feature=youtu.be</link>
             <guid isPermaLink="false">d86650a7-392a-4b78-9c78-1e704bcc7a64</guid>
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Email Us]]></title>
-            <description><![CDATA[<article><h1>Email Us</h1><p>Need a hand? We've got you. Email us and get in touch with a Happiness Engineer at The Grid</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5773ccc43938197840120ff66aca1585febb7d88.jpg"></article>]]></description>
-            <link>http://www.123contactform.com/form-1831865/Contact-Form</link>
-            <guid isPermaLink="false">c74d3005-e5bc-470e-aa07-81904064ca12</guid>
-            <pubDate>Sun, 17 Apr 2016 01:56:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Change the Layout Filter]]></title>
