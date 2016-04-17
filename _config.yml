@@ -3,6 +3,13 @@ favicon: null
 layout_spectrum: 0.50422
 typography_spectrum: 0.24741
 title: The Grid Support
+navigation:
+  - url: 'https://thegrid.io/'
+    name: Homepage
+  - url: 'https://blog.thegrid.io/'
+    name: Blog
+  - url: 'http://status.thegrid.io/'
+    name: Service Status
 cta:
   domain: null
   bucket: null
@@ -27,10 +34,3 @@ color:
   saturation: 0
   rhythmicContrast: 1
 purpose: []
-navigation:
-  - url: 'https://thegrid.io/'
-    name: Home
-  - url: 'https://blog.thegrid.io/'
-    name: Blog
-  - url: 'http://status.thegrid.io/'
-    name: Status
