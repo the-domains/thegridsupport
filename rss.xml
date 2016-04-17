@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support]]></description>
         <link>http://support.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 02:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 20:46:28 GMT</lastBuildDate>
         <atom:link href="http://support.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We're here to help!]]></title>
@@ -61,6 +61,13 @@
             <link>https://www.youtube.com/watch?v=u6zGCjfF1dE&amp;feature=youtu.be</link>
             <guid isPermaLink="false">d86650a7-392a-4b78-9c78-1e704bcc7a64</guid>
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started in Beta - The Grid Help]]></title>
+            <description><![CDATA[<article><h1>Getting Started in Beta - The Grid Help</h1><p>So, you FINALLY got your activation email! Congrats! Welcome to the team. The links below will help you blast off into beta. Before you start, you need to know</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03cafa41-bc6b-4314-92a7-d95a9cbade41.jpg"></article>]]></description>
+            <link>http://help.thegrid.io/article/221-getting-started-in-beta</link>
+            <guid isPermaLink="false">c7a3817b-64f2-44bc-8dbe-6687f138b1fb</guid>
+            <pubDate>Sun, 17 Apr 2016 20:46:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How to Change the Layout Filter]]></title>
