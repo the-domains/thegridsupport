@@ -29,8 +29,8 @@ color:
 purpose: []
 navigation:
   - url: 'https://thegrid.io/'
-    name: Homepage
+    name: Home
   - url: 'https://blog.thegrid.io/'
     name: Blog
   - url: 'http://status.thegrid.io/'
-    name: Service Status
+    name: Status
