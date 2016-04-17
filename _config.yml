@@ -5,11 +5,11 @@ typography_spectrum: 0.24741
 title: The Grid Support
 navigation:
   - url: 'https://thegrid.io/'
-    name: Homepage
+    name: Home
   - url: 'https://blog.thegrid.io/'
     name: Blog
   - url: 'http://status.thegrid.io/'
-    name: Service Status
+    name: Status
 cta:
   domain: null
   bucket: null
