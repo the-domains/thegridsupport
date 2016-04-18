@@ -1,27 +1,4 @@
-name: The Grid Support
-favicon: null
-layout_spectrum: 0.50591
-typography_spectrum: 0.24741
-title: The Grid Support
-navigation:
-  - url: 'https://thegrid.io/'
-    name: Home
-  - url: 'https://blog.thegrid.io/'
-    name: Blog
-  - url: 'http://status.thegrid.io/'
-    name: Status
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#535357'
@@ -31,6 +8,11 @@ color:
     - '#1e1b23'
   brandStrength: 0
   lightness: 1
-  saturation: 0
   rhythmicContrast: 1
+  saturation: 0
+cta: {}
+layout_spectrum: 0.535362
+name: The Grid Support
+opengraph: {}
 purpose: []
+typography_spectrum: 0.24741
