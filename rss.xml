@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support]]></description>
         <link>http://support.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 16:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 16:34:34 GMT</lastBuildDate>
         <atom:link href="http://support.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started in Beta - The Grid Help]]></title>
@@ -63,18 +63,18 @@
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[iOS Help]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06b4406a-1cfe-44bb-9138-e48e52b2789d.jpg">]]></description>
+            <link>http://support.thegrid.io/ios-help/index.html</link>
+            <guid isPermaLink="false">8f97dcb5-a195-4000-8d60-690a47cec70c</guid>
+            <pubDate>Mon, 18 Apr 2016 16:34:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Android OS Help]]></title>
             <description><![CDATA[<p>Need help using The Grid on Android? We've got you covered!</p>]]></description>
             <link>http://support.thegrid.io/android-os-help/index.html</link>
             <guid isPermaLink="false">fad59ea6-5cfa-4041-ac5f-aeb7489770a3</guid>
             <pubDate>Mon, 18 Apr 2016 16:30:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to Change the Layout Filter]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c92bcc3-0d2e-416b-9940-af1554522185.jpg">]]></description>
-            <link>http://support.thegrid.io/how-to-change-the-layout-filter/index.html</link>
-            <guid isPermaLink="false">83adc2ea-b276-4529-8a97-7f9d0c1514ef</guid>
-            <pubDate>Thu, 18 Feb 2016 17:39:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
