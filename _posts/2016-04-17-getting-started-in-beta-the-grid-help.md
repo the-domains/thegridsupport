@@ -16,9 +16,9 @@ keywords:
   - blast
   - links
   - send
-description: ''
-datePublished: '2016-04-18T17:50:51.600Z'
-dateModified: '2016-04-18T17:50:42.924Z'
+description: 'So, you FINALLY got your activation email! Congrats! Welcome to the team. The links below will help you blast off into beta.'
+datePublished: '2016-04-18T19:58:44.132Z'
+dateModified: '2016-04-18T19:58:21.162Z'
 author:
   - name: ''
     url: ''
@@ -37,6 +37,9 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03cafa41-bc6b-4314-92a7-d95a9cbade41.jpg)
+So, you FINALLY got your activation email! Congrats! Welcome to the team. The links below will help you blast off into beta.
 
-<article style=""><h1>Getting Started in Beta - The Grid Help</h1><p>So, you FINALLY got your activation email! Congrats! Welcome to the team. The links below will help you blast off into beta. Before you start, you need to know</p><img src="http://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/57107bbfc697911a6f039548/192-1.png" /></article>
+Before you start, you need to know a few things. This is very much a BETA. Things are going to be broken. Some features won't work like you would expect them to every time. You might not get a site that you're happy with... BUT, please know that we have some awesome improvements to the UI and site output coming.
+
+Click the image to check out some videos that will get you a head start on creating the site you want.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03cafa41-bc6b-4314-92a7-d95a9cbade41.jpg)
