@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://help.thegrid.io/article/221-getting-started-in-beta'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - email
   - snag
@@ -17,8 +17,8 @@ keywords:
   - links
   - send
 description: ''
-datePublished: '2016-04-18T17:32:39.650Z'
-dateModified: '2016-04-18T17:32:10.372Z'
+datePublished: '2016-04-18T17:50:51.600Z'
+dateModified: '2016-04-18T17:50:42.924Z'
 author:
   - name: ''
     url: ''
