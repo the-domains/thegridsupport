@@ -1,15 +1,14 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: "Need help using\_The Grid on Android? We've got you covered!"
-datePublished: '2016-04-07T04:50:02.954Z'
-dateModified: '2016-04-07T04:48:34.013Z'
-title: Android OS Help
+description: "Need help using The Grid on Android? We've got you covered!"
+datePublished: '2016-04-18T16:30:41.002Z'
+dateModified: '2016-04-18T16:28:35.969Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-24-android-os-help.md
 published: true
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: android-os-help/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea80359d-df0c-41c1-b659-9017b217b071.jpg)
