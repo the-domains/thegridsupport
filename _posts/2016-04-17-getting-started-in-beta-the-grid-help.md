@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - email
   - snag
@@ -16,8 +16,8 @@ keywords:
   - links
   - send
 description: 'So, you FINALLY got your activation email! Congrats! Welcome to the team. The links below will help you blast off into beta.'
-datePublished: '2016-04-20T03:50:38.073Z'
-dateModified: '2016-04-20T03:50:33.444Z'
+datePublished: '2016-04-20T03:52:53.004Z'
+dateModified: '2016-04-20T03:52:41.034Z'
 author:
   - name: ''
     url: ''
