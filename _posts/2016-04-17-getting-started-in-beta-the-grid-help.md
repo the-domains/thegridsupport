@@ -1,10 +1,9 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://help.thegrid.io/article/221-getting-started-in-beta'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - email
   - snag
@@ -17,8 +16,8 @@ keywords:
   - links
   - send
 description: 'So, you FINALLY got your activation email! Congrats! Welcome to the team. The links below will help you blast off into beta.'
-datePublished: '2016-04-18T19:58:44.132Z'
-dateModified: '2016-04-18T19:58:21.162Z'
+datePublished: '2016-04-20T03:50:38.073Z'
+dateModified: '2016-04-20T03:50:33.444Z'
 author:
   - name: ''
     url: ''
@@ -33,6 +32,7 @@ publisher:
   domain: help.thegrid.io
   url: 'http://help.thegrid.io'
   favicon: 'http://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/57107bbf9033602796675f1a/192-1.png'
+url: getting-started-in-beta/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
