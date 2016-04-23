@@ -16,3 +16,10 @@ name: The Grid Support
 opengraph: {}
 purpose: []
 typography_spectrum: 0.24741
+navigation:
+  - url: 'https://thegrid.io/'
+    name: Home
+  - url: 'https://blog.thegrid.io/'
+    name: Blog
+  - url: 'http://status.thegrid.io/'
+    name: Status
