@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.24741
 color:
   brandColors:
     - '#535357'
@@ -10,12 +10,11 @@ color:
   lightness: 1
   rhythmicContrast: 1
   saturation: 0
-cta: {}
-layout_spectrum: 0.535362
-name: The Grid Support
 opengraph: {}
-purpose: []
-typography_spectrum: 0.24741
+layout_spectrum: 0.535362
+analytics: {}
+name: The Grid Support
+cta: {}
 navigation:
   - url: 'https://thegrid.io/'
     name: Home
@@ -23,3 +22,5 @@ navigation:
     name: Blog
   - url: 'http://status.thegrid.io/'
     name: Status
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/922062ad-706e-46f7-972a-3c3746548872.png'
+purpose: []
