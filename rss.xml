@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support]]></description>
         <link>http://support.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 21:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 21:46:32 GMT</lastBuildDate>
         <atom:link href="http://support.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Activate]]></title>
@@ -68,13 +68,6 @@
             <link>http://support.thegrid.io/getting-started-in-beta/index.html</link>
             <guid isPermaLink="false">c7a3817b-64f2-44bc-8dbe-6687f138b1fb</guid>
             <pubDate>Wed, 20 Apr 2016 03:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[iOS Help]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/06b4406a-1cfe-44bb-9138-e48e52b2789d.jpg">]]></description>
-            <link>http://support.thegrid.io/ios-help/index.html</link>
-            <guid isPermaLink="false">8f97dcb5-a195-4000-8d60-690a47cec70c</guid>
-            <pubDate>Mon, 18 Apr 2016 16:36:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
