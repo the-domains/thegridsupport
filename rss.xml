@@ -4,8 +4,15 @@
         <description><![CDATA[The Grid Support]]></description>
         <link>http://support.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 21:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 21:37:31 GMT</lastBuildDate>
         <atom:link href="http://support.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Activate]]></title>
+            <description><![CDATA[<article><h1>Activate</h1><p>Welcome to The Grid beta! This will walk you through how to activate your account, create your first site, and login to The Grid beta version 2.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/446e226d-aa3b-4ad5-8512-c39312e3c417.jpg"></article>]]></description>
+            <link>https://thegrid.wistia.com/medias/4yurc9xfoq</link>
+            <guid isPermaLink="false">f2263fbf-7898-47f2-a923-c621b40ebb9d</guid>
+            <pubDate>Fri, 20 May 2016 21:37:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[We're here to help!]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5773ccc43938197840120ff66aca1585febb7d88.jpg" alt="" title="">]]></description>
@@ -54,13 +61,6 @@
             <link>https://www.youtube.com/watch?v=u6zGCjfF1dE&amp;feature=youtu.be</link>
             <guid isPermaLink="false">d86650a7-392a-4b78-9c78-1e704bcc7a64</guid>
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Activate]]></title>
-            <description><![CDATA[<article><h1>Activate</h1><p>Welcome to The Grid beta! This will walk you through how to activate your account, create your first site, and login to The Grid beta version 2.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/446e226d-aa3b-4ad5-8512-c39312e3c417.jpg"></article>]]></description>
-            <link>https://thegrid.wistia.com/medias/4yurc9xfoq</link>
-            <guid isPermaLink="false">f2263fbf-7898-47f2-a923-c621b40ebb9d</guid>
-            <pubDate>Fri, 20 May 2016 21:36:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Getting Started in Beta]]></title>
