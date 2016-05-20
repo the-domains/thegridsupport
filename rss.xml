@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support]]></description>
         <link>http://support.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 03:52:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 21:37:27 GMT</lastBuildDate>
         <atom:link href="http://support.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We're here to help!]]></title>
@@ -56,6 +56,13 @@
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Activate]]></title>
+            <description><![CDATA[<article><h1>Activate</h1><p>Welcome to The Grid beta! This will walk you through how to activate your account, create your first site, and login to The Grid beta version 2.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/446e226d-aa3b-4ad5-8512-c39312e3c417.jpg"></article>]]></description>
+            <link>https://thegrid.wistia.com/medias/4yurc9xfoq</link>
+            <guid isPermaLink="false">f2263fbf-7898-47f2-a923-c621b40ebb9d</guid>
+            <pubDate>Fri, 20 May 2016 21:36:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Getting Started in Beta]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03cafa41-bc6b-4314-92a7-d95a9cbade41.jpg" alt="" title="">]]></description>
             <link>http://support.thegrid.io/getting-started-in-beta/index.html</link>
@@ -68,13 +75,6 @@
             <link>http://support.thegrid.io/ios-help/index.html</link>
             <guid isPermaLink="false">8f97dcb5-a195-4000-8d60-690a47cec70c</guid>
             <pubDate>Mon, 18 Apr 2016 16:36:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Android OS Help]]></title>
-            <description><![CDATA[<p>Need help using The Grid on Android? We've got you covered!</p>]]></description>
-            <link>http://support.thegrid.io/android-os-help/index.html</link>
-            <guid isPermaLink="false">fad59ea6-5cfa-4041-ac5f-aeb7489770a3</guid>
-            <pubDate>Mon, 18 Apr 2016 16:30:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
