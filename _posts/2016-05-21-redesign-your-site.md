@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-21T23:05:05.688Z'
+datePublished: '2016-05-21T23:16:55.542Z'
 author: []
-dateModified: '2016-05-21T23:04:27.651Z'
+dateModified: '2016-05-21T23:16:55.143Z'
 title: Redesign Your Site
 description: 'https://thegrid.wistia.com/medias/oip3iy8l3l'
-starred: false
 sourcePath: _posts/2016-05-21-redesign-your-site.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
