@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-05-21T23:22:31.568Z'
+datePublished: '2016-05-21T23:22:38.210Z'
 sourcePath: _posts/2016-05-21-redesign-your-site.md
 author: []
-dateModified: '2016-05-21T23:22:29.384Z'
+dateModified: '2016-05-21T23:22:37.775Z'
 title: Redesign Your Site
 description: 'We’ve got an awesome new Redesign feature on The Grid. You’re able to see what your own personal AI designer came up with and preview it before it’s published. If you don’t like it, click Redesign to get something new! Check out this video!'
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
