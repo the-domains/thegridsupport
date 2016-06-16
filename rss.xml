@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support]]></description>
         <link>http://support.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 19:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 19:10:10 GMT</lastBuildDate>
         <atom:link href="http://support.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Activate]]></title>
@@ -61,6 +61,13 @@
             <link>https://www.youtube.com/watch?v=u6zGCjfF1dE&amp;feature=youtu.be</link>
             <guid isPermaLink="false">d86650a7-392a-4b78-9c78-1e704bcc7a64</guid>
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Image Filter, Cropping, and Overlay Settings for Images]]></title>
+            <description><![CDATA[<article><h1>Image Filter, Cropping, and Overlay Settings for Images</h1><p>We love filters, but sometimes you have a photo just how you want it. No problem, the AI won’t touch if you don’t want it to. In the post editor, click Image and then set the checkboxes how you like.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b732e14-31b4-457e-b33a-1526484eae79.gif"></article>]]></description>
+            <link>http://support.thegrid.io/image-filter-cropping-and-overlay-settings-for-images/index.html</link>
+            <guid isPermaLink="false">aa0c8583-35e1-407f-8b79-90cf6fba48f8</guid>
+            <pubDate>Thu, 16 Jun 2016 19:09:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Redesign Your Site]]></title>
