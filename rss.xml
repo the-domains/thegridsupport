@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid Support]]></description>
         <link>http://support.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 23:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 19:03:11 GMT</lastBuildDate>
         <atom:link href="http://support.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Activate]]></title>
@@ -63,18 +63,18 @@
             <pubDate>Mon, 15 Feb 2016 22:00:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b732e14-31b4-457e-b33a-1526484eae79.gif" alt="You asked for it, you got it! You can now disable filters and more.">]]></description>
+            <link>http://support.thegrid.io/image-filter-cropping-and-overlay-settings-for-images/index.html</link>
+            <guid isPermaLink="false">aa0c8583-35e1-407f-8b79-90cf6fba48f8</guid>
+            <pubDate>Thu, 16 Jun 2016 19:03:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Redesign Your Site]]></title>
             <description><![CDATA[<article><h1>Redesign Your Site</h1><p>We’ve got an awesome new Redesign feature on The Grid. You’re able to see what your own personal AI designer came up with and preview it before it’s published. If you don’t like it, click Redesign to get something new! Check out this video!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/17fd50f5-a7c6-4040-b9ac-ca02f8d8ca5c.jpg"></article>]]></description>
             <link>http://support.thegrid.io/redesign-your-site/index.html</link>
             <guid isPermaLink="false">337fbb2c-7788-4a06-b018-86f4fca5ee40</guid>
             <pubDate>Sat, 21 May 2016 23:22:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Activate]]></title>
-            <description><![CDATA[<article><h1>Activate</h1><p>1 min 33 sec video</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38ee780ec8e3e898e68cd63e09a4e4c818c6127a.jpg"></article>]]></description>
-            <link>https://thegrid.wistia.com/medias/4yurc9xfoq</link>
-            <guid isPermaLink="false">103761cb-457b-4b69-8f0a-cfd9195e272a</guid>
-            <pubDate>Fri, 20 May 2016 21:46:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
