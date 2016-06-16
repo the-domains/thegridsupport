@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-06-16T19:17:21.830Z'
+datePublished: '2016-06-16T19:19:12.020Z'
 sourcePath: _posts/2016-06-16-image-filter-cropping-and-overlay-settings-for-images.md
 author: []
-dateModified: '2016-06-16T19:17:17.540Z'
+dateModified: '2016-06-16T19:19:11.172Z'
 title: 'Image Filter, Cropping, and Overlay Settings for Images'
 description: >-
   We love filters, but sometimes you have a photo just how you want it. No
   problem, the AI won’t touch if you don’t want it to. In the post editor, click
   Image and then set the checkboxes how you like.
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
