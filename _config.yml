@@ -22,5 +22,10 @@ navigation:
     name: Blog
   - url: 'http://status.thegrid.io/'
     name: Status
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/922062ad-706e-46f7-972a-3c3746548872.png'
+  - id: 'http://help.thegrid.io/'
+    url: 'http://help.thegrid.io/'
+    name: The Grid Help Articles
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/922062ad-706e-46f7-972a-3c3746548872.png
 purpose: []
