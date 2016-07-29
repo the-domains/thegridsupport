@@ -13,7 +13,7 @@ color:
 opengraph: {}
 layout_spectrum: 0.535362
 analytics: {}
-name: Support
+name: The Grid Support
 cta: {}
 navigation:
   - name: Home
@@ -30,4 +30,5 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/922062ad-706e-46f7-972a-3c3746548872.png
+title: Grid Help
 purpose: []
