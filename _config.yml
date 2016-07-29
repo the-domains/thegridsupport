@@ -13,18 +13,18 @@ color:
 opengraph: {}
 layout_spectrum: 0.535362
 analytics: {}
-name: The Grid Support
+name: Support
 cta: {}
 navigation:
   - name: Home
-    type: external
     url: 'https://thegrid.io/'
+    type: external
   - name: Blog
-    type: external
     url: 'https://blog.thegrid.io/'
-  - name: Status
     type: external
+  - name: Status
     url: 'http://status.thegrid.io/'
+    type: external
   - name: The Grid Help Articles
     url: 'http://help.thegrid.io/'
     type: external
