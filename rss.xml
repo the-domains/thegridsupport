@@ -4,15 +4,8 @@
         <description><![CDATA[Grid Help]]></description>
         <link>http://support.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 16:17:33 GMT</lastBuildDate>
         <atom:link href="http://support.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The Grid - Beta Update]]></title>
-            <description><![CDATA[<article><h1>The Grid - Beta Update</h1><p>We've been hard at work pushing towards our launch and we're excited to announce a couple of changes to The Grid Beta! The New User Interface Version 2 of The Grid Webapp is going live! Those of you on the original web app will be migrated to the new version within the week.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ed9758675de0d3ba33f167b5c6716c84/noop.jpg?input=https%3A%2F%2Fgallery.mailchimp.com%2Fe3e55c4321c915d4d6fb9f8f0%2Fimages%2F8f0d4f02-b05a-4238-a07a-cb439c0a5c26.jpg"></article>]]></description>
-            <link>http://support.thegrid.io/the-grid-beta-update/index.html</link>
-            <guid isPermaLink="false">92e6fa5d-ca83-45dd-81ba-d29c7824c170</guid>
-            <pubDate>Wed, 17 Aug 2016 16:14:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Image Filter, Cropping, and Overlay Settings for Images]]></title>
             <description><![CDATA[<article><h1>Image Filter, Cropping, and Overlay Settings for Images</h1><p>We love filters, but sometimes you have a photo just how you want it. No problem, the AI won’t touch if you don’t want it to. In the post editor, click Image and then set the checkboxes how you like.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b732e14-31b4-457e-b33a-1526484eae79.gif"></article>]]></description>
