@@ -1,4 +1,4 @@
-typography_spectrum: 0.8580444857943803
+typography_spectrum: 0.0021304769907146692
 style: the-composer
 color:
   brandColors:
@@ -12,7 +12,7 @@ color:
   rhythmicContrast: 1
   saturation: 0
 opengraph: {}
-layout_spectrum: 0.4815312745049596
+layout_spectrum: 0.21946966601535678
 analytics: {}
 name: The Grid Support
 cta: {}
