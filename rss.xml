@@ -4,7 +4,7 @@
         <description><![CDATA[Grid Help]]></description>
         <link>http://support.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 16:15:01 GMT</lastBuildDate>
         <atom:link href="http://support.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid - Beta Update]]></title>
@@ -47,13 +47,6 @@
             <link>http://support.thegrid.io/how-to-create-a-navigation-link/index.html</link>
             <guid isPermaLink="false">67403302-dbd3-448a-b4cf-25b19beac582</guid>
             <pubDate>Wed, 17 Feb 2016 19:58:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How do I put an image in the header]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35275966-0898-4140-8e01-dfba085645eb.jpg" alt="" title="">]]></description>
-            <link>http://support.thegrid.io/how-do-i-put-an-image-in-the-header/index.html</link>
-            <guid isPermaLink="false">2b95e40a-0e7c-46f7-a0a5-127c0064810a</guid>
-            <pubDate>Tue, 16 Feb 2016 18:28:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Set Up a Contact Form]]></title>
