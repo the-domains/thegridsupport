@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-17T16:23:01.763Z'
+datePublished: '2016-08-17T16:25:15.755Z'
 sourcePath: _posts/2016-08-17-beta-update.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-17T16:23:01.327Z'
+dateModified: '2016-08-17T16:25:15.260Z'
 title: Beta Update
 publisher: {}
-description: 'Hi There, Gridsters!'
+description: ''
 starred: true
 url: beta-update/index.html
 _context: 'http://schema.org'
@@ -17,10 +17,6 @@ _type: Article
 ---
 # Beta Update
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/317be2f0-c124-473d-b272-5e9ee08488be.jpg)
-
-**Hi There, Gridsters!**
-
-**We've been hard at work pushing towards our launch and we're excited to announce a couple of changes to The Grid Beta!**
 
 **Hi There, Gridsters!**
 
