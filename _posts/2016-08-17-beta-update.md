@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-17T16:25:15.755Z'
+datePublished: '2016-08-17T16:26:38.984Z'
 sourcePath: _posts/2016-08-17-beta-update.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-17T16:25:15.260Z'
+dateModified: '2016-08-17T16:26:38.581Z'
 title: Beta Update
 publisher: {}
 description: ''
