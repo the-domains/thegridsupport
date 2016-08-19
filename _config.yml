@@ -1,5 +1,4 @@
 typography_spectrum: 0.0021304769907146692
-style: the-composer
 color:
   brandColors:
     - '#535357'
@@ -16,6 +15,7 @@ layout_spectrum: 0.21946966601535678
 analytics: {}
 name: The Grid Support
 cta: {}
+style: the-composer
 navigation:
   - name: Home
     url: 'https://thegrid.io/'
@@ -31,5 +31,5 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/922062ad-706e-46f7-972a-3c3746548872.png
-title: Grid Help
+title: The Grid Support Blog
 purpose: []
