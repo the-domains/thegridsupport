@@ -15,7 +15,6 @@ layout_spectrum: 0.21946966601535678
 analytics: {}
 name: The Grid Support
 cta: {}
-style: the-composer
 navigation:
   - name: Home
     url: 'https://thegrid.io/'
